@@ -477,7 +477,7 @@ img {
   /* responsive portrait phone */
   padding-right: 24px;
   padding-left: 24px;
-  position: relative;
+  position: static;
 }
 @media (min-width: 1019px) and (max-width: 1140px) {
   .td-pb-row [class*="td-pb-span"] {

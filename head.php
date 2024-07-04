@@ -67,7 +67,7 @@
 <link href='http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&amp;ver=4.7.16' id='google_font_open_sans-css' media='all' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C900%2C500italic%2C400%2C300&amp;ver=4.7.16' id='google_font_roboto-css' media='all' rel='stylesheet' type='text/css'>
 <link href='/wp-content/plugins/js_composer/assets/css/js_composer.min972f.css?ver=5.0.1' id='js_composer_front-css' media='all' rel='stylesheet' type='text/css'>
-<link href='/wp-content/themes/Fleboloji%20Dernegi%202017/stylee87d.css?ver=7.7' id='td-theme-css' media='all' rel='stylesheet' type='text/css'>
+<link href='/wp-content/themes/Fleboloji%20Dernegi%202017/stylee87d.css?ver=7.8' id='td-theme-css' media='all' rel='stylesheet' type='text/css'>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var tribe_events_linked_posts = {

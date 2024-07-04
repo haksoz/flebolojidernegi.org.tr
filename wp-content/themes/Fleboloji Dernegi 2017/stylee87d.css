@@ -1326,7 +1326,7 @@ Headers style
   .td-header-wrap .td-header-menu-wrap-full,
   .td-header-wrap .td-header-menu-wrap,
   .td-header-wrap .td-header-main-menu {
-    background-color: #222 !important;
+    background-color: #fff !important;
     height: 54px !important;
   }
   .td-header-header {
@@ -5612,7 +5612,7 @@ ul.sf-js-enabled > li > a > i.td-icon-menu-down:before {
   height: 54px;
   display: inline-block;
   padding-top: 1px;
-  color: #fff;
+  color: #0e457b;
 }
 /*
     Mobile opened menu with admin bar

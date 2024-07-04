@@ -22,7 +22,7 @@
                         <a href="#"><i class="td-icon-font td-icon-mobile"></i></a>
                     </div>
                     <div class="td-main-menu-logo td-logo-in-header">
-                        <a class="td-mobile-logo td-sticky-disable" href="/index.php"><img alt="" class="td-retina-data" data-retina="/wp-content/uploads/2017/01/LOGO-DENEME_mobil.jpg" src="/wp-content/uploads/2017/01/FLEBOLOJ%c4%b0-DERNEG%c4%b0-istanbul.jpg"></a> <a class="td-header-logo td-sticky-disable" href="/index.php"><img alt="" src="/wp-content/uploads/2017/01/logo-2017.jpg"></a>
+                        <a class="td-mobile-logo td-sticky-disable" href="/index.php"><img alt="" class="td-retina-data" data-retina="../../wp-content/uploads/2017/01/flebolojidernegi_logo.png" src="../../wp-content/uploads/2017/01/flebolojidernegi_logo.png"></a> <a class="td-header-logo td-sticky-disable" href="/index.php"><img alt="" src="../../wp-content/uploads/2017/01/flebolojidernegi_logo.png"></a>
                     </div>
                     <div class="menu-menu-container">
                         <ul class="sf-menu" id="menu-menu-1">

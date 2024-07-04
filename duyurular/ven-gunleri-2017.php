@@ -45,17 +45,17 @@
                                         sizes="(max-width: 800px) 100vw, 800px" /></p>
                                 <p>TOPLANTI TARİHLERİ</p>
                                 <p class="entry-title" data-fontsize="18" data-lineheight="25"><a
-                                        href="/7-ocak-2017-sapanca-toplantisi-ven-gunleri-2017.php">7 Ocak 2017 –
+                                        href="/duyurular/7-ocak-2017-sapanca-toplantisi-ven-gunleri-2017.php">7 Ocak 2017 –
                                         Sapanca Toplantısı | Ven Günleri 2017</a></p>
                                 <p class="entry-title" data-fontsize="18" data-lineheight="25"><a
-                                        href="/11-12-subat-2017-istanbul-toplantisi-ven-gunleri.php">11-12 Şubat
+                                        href="/duyurular/11-12-subat-2017-istanbul-toplantisi-ven-gunleri.php">11-12 Şubat
                                         2017 – İstanbul Toplantısı | Ven Günleri 2017</a></p>
-                                <p>25 Şubat 2017 &#8211; Konya Toplantısı | Ven Günleri 2017</p>
+                                <p><a href="/duyurular/25-subat-2017-konya-toplantisi.php">25 Şubat 2017 &#8211; Konya Toplantısı | Ven Günleri 2017</a></p>
                                 <p>8 Nisan 2017 &#8211; Van Toplantısı | Ven Günleri 2017</p>
-                                <p><a href="/23-eylul-2017-izmir-toplantisi-ven-gunleri-2017.php">23 Eylül 2017
+                                <p><a href="/duyurular/23-eylul-2017-izmir-toplantisi-ven-gunleri-2017.php">23 Eylül 2017
                                         &#8211; İzmir Toplantısı | Ven Günleri 2017</a></p>
                                 <p>Aralık 2017 &#8211; Edirne Toplantısı | Ven Günleri 2017</p>
-                                <p><a href="/27-ocak-2018-istanbul-toplantisi-ven-gunleri-2018.php">27 Ocak 2018
+                                <p><a href="/duyurular/27-ocak-2018-istanbul-toplantisi-ven-gunleri-2018.php">27 Ocak 2018
                                         &#8211; İstanbul Toplantısı | Ven Günleri 2018</a></p>
                                 <p>&nbsp;</p>
                             </div>

@@ -52,22 +52,8 @@
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-472">
                                         <a href="/duyurular/ven-gunleri-2018.php">Ven Günleri | 2018</a>
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children td-menu-item td-normal-menu menu-item-58">
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-58">
                                         <a href="/duyurular/ven-gunleri-2017.php">Ven Günleri | 2017</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-79">
-                                                <a href="/duyurular/7-ocak-2017-sapanca-toplantisi-ven-gunleri-2017.php">7 Ocak 2017 – Sapanca Toplantısı | Ven Günleri 2017</a>
-                                            </li>
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-78">
-                                                <a href="/duyurular/11-12-subat-2017-istanbul-toplantisi-ven-gunleri.php">11-12 Şubat 2017 – İstanbul Toplantısı | Ven Günleri</a>
-                                            </li>
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-398">
-                                                <a href="/duyurular/23-eylul-2017-izmir-toplantisi-ven-gunleri-2017.php">23 Eylül 2017 – İzmir Toplantısı | Ven Günleri 2017</a>
-                                            </li>
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-416">
-                                                <a href="/duyurular/27-ocak-2018-istanbul-toplantisi-ven-gunleri-2018.php">27 Ocak 2018 – İstanbul Toplantısı | Ven Günleri 2018</a>
-                                            </li>
-                                        </ul>
                                     </li>
                                 </ul>
                             </li>
@@ -77,13 +63,8 @@
                             <li class="<?php echo $page == 'veri-arsivi' ? 'current-menu-item' : '' ?> menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children td-menu-item td-normal-menu menu-item-179">
                                 <a href="javascript:void(0);">VERİ ARŞİVİ</a>
                                 <ul class="sub-menu">
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children td-menu-item td-normal-menu menu-item-213">
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-213">
                                         <a href="/kongre-sunumlari.php">Kongre Sunumları</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-211">
-                                                <a href="/vi-ulusal-fleboloji-kongresi.php">VI. Ulusal Fleboloji Kongresi</a>
-                                            </li>
-                                        </ul>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-176">
                                         <a href="/venoz-guideline.php">Venöz Guideline</a>

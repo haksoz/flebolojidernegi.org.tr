@@ -4,13 +4,13 @@
 
 <head>
     <title>Yönetim Kurulu | Fleboloji Derneği</title>
-    <?php include('head.php') ?>
+    <?php include('../head.php') ?>
 </head>
 
 <body class="home page-template-default page page-id-10 tribe-no-js ana-sayfa wpb-js-composer js-comp-ver-5.0.1 vc_responsive td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
-    <?php include('header-mobile.php') ?>
+    <?php include('../header-mobile.php') ?>
     <div id="td-outer-wrap">
-        <?php include('header.php') ?>
+        <?php include('../header.php') ?>
 
         <div class="td-main-content-wrap">
 
@@ -127,17 +127,17 @@
                         </div>
                     </div>
                     <div class="td-pb-span4 td-main-sidebar" role="complementary">
-                        <?php include('yan-menu-duyurular.php') ?>
+                        <?php include('../yan-menu-duyurular.php') ?>
                     </div>
                 </div> <!-- /.td-pb-row -->
             </div> <!-- /.td-container -->
         </div> <!-- /.td-main-content-wrap -->
 
-        <?php include('footer.php') ?>
+        <?php include('../footer.php') ?>
 
     </div><!--close td-outer-wrap-->
 
-    <?php include('script.php') ?>
+    <?php include('../script.php') ?>
 
 </body>
 

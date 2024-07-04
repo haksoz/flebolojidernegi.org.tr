@@ -11,7 +11,7 @@
     </div>
     <div class="td-banner-wrap-full td-logo-wrap-full td-logo-mobile-loaded">
         <div class="td-header-sp-logo">
-            <h1 class="td-logo"><a class="td-main-logo" href="/index.php"><img alt="" src="wp-content/uploads/2017/01/logo-2017.jpg"> <span class="td-visual-hidden">Fleboloji Derneği</span></a></h1>
+            <h1 class="td-logo"><a class="td-main-logo" href="/index.php"><img alt="" src="/wp-content/uploads/2017/01/logo-2017.jpg"> <span class="td-visual-hidden">Fleboloji Derneği</span></a></h1>
         </div>
     </div>
     <div class="td-header-menu-wrap-full">
@@ -22,7 +22,7 @@
                         <a href="#"><i class="td-icon-font td-icon-mobile"></i></a>
                     </div>
                     <div class="td-main-menu-logo td-logo-in-header">
-                        <a class="td-mobile-logo td-sticky-disable" href="/index.php"><img alt="" class="td-retina-data" data-retina="wp-content/uploads/2017/01/LOGO-DENEME_mobil.jpg" src="wp-content/uploads/2017/01/FLEBOLOJ%c4%b0-DERNEG%c4%b0-istanbul.jpg"></a> <a class="td-header-logo td-sticky-disable" href="/index.php"><img alt="" src="wp-content/uploads/2017/01/logo-2017.jpg"></a>
+                        <a class="td-mobile-logo td-sticky-disable" href="/index.php"><img alt="" class="td-retina-data" data-retina="/wp-content/uploads/2017/01/LOGO-DENEME_mobil.jpg" src="/wp-content/uploads/2017/01/FLEBOLOJ%c4%b0-DERNEG%c4%b0-istanbul.jpg"></a> <a class="td-header-logo td-sticky-disable" href="/index.php"><img alt="" src="/wp-content/uploads/2017/01/logo-2017.jpg"></a>
                     </div>
                     <div class="menu-menu-container">
                         <ul class="sf-menu" id="menu-menu-1">
@@ -50,22 +50,22 @@
                                         <a href="/duyurular.php">Duyurular</a>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-472">
-                                        <a href="/ven-gunleri-2018.php">Ven Günleri | 2018</a>
+                                        <a href="/duyurular/ven-gunleri-2018.php">Ven Günleri | 2018</a>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children td-menu-item td-normal-menu menu-item-58">
-                                        <a href="/ven-gunleri-2017.php">Ven Günleri | 2017</a>
+                                        <a href="/duyurular/ven-gunleri-2017.php">Ven Günleri | 2017</a>
                                         <ul class="sub-menu">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-79">
-                                                <a href="/7-ocak-2017-sapanca-toplantisi-ven-gunleri-2017.php">7 Ocak 2017 – Sapanca Toplantısı | Ven Günleri 2017</a>
+                                                <a href="/duyurular/7-ocak-2017-sapanca-toplantisi-ven-gunleri-2017.php">7 Ocak 2017 – Sapanca Toplantısı | Ven Günleri 2017</a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-78">
-                                                <a href="/11-12-subat-2017-istanbul-toplantisi-ven-gunleri.php">11-12 Şubat 2017 – İstanbul Toplantısı | Ven Günleri</a>
+                                                <a href="/duyurular/11-12-subat-2017-istanbul-toplantisi-ven-gunleri.php">11-12 Şubat 2017 – İstanbul Toplantısı | Ven Günleri</a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-398">
-                                                <a href="/23-eylul-2017-izmir-toplantisi-ven-gunleri-2017.php">23 Eylül 2017 – İzmir Toplantısı | Ven Günleri 2017</a>
+                                                <a href="/duyurular/23-eylul-2017-izmir-toplantisi-ven-gunleri-2017.php">23 Eylül 2017 – İzmir Toplantısı | Ven Günleri 2017</a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-416">
-                                                <a href="/27-ocak-2018-istanbul-toplantisi-ven-gunleri-2018.php">27 Ocak 2018 – İstanbul Toplantısı | Ven Günleri 2018</a>
+                                                <a href="/duyurular/27-ocak-2018-istanbul-toplantisi-ven-gunleri-2018.php">27 Ocak 2018 – İstanbul Toplantısı | Ven Günleri 2018</a>
                                             </li>
                                         </ul>
                                     </li>

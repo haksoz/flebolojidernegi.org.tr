@@ -26,7 +26,7 @@
                             </div>
                             <div class="td-page-content">
                                 <p>Derneğimize üye olmak için aşağıda bulunan formun doldurulup aidat ödemenize ait dekont ile <a href="mailto:bilgi@flebolojidernegi.org.tr">bilgi@flebolojidernegi.org.tr</a> adresine mail yolu ile iletilmesi gerekmektedir.</p>
-                                <p><a href="/doc/fleboloji-dernegi-uyelik.pdf">Formu İndirmek İçin Tıklayınız.</a></p>
+                                <p><a href="/doc/fleboloji-dernegi-uyelik.pdf" target="_blank">Formu İndirmek İçin Tıklayınız.</a></p>
                                 <p>&nbsp;</p>
                                 <p>&nbsp;</p>
                                 <p>&nbsp;</p>

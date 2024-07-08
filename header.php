@@ -75,7 +75,7 @@
                                 </ul>
                             </li>
                             <li class="<?php echo $page == 'kitaplik' ? 'current-menu-item' : '' ?> menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children td-menu-item td-normal-menu menu-item-179">
-                                <a href="javascript:void(0);">KİTAPLIK</a>
+                                <a href="/kitaplik.php">KİTAPLIK</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-213">
                                         <a href="/kilavuzlar.php">Kılavuzlar</a>

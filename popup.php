@@ -11,9 +11,7 @@
                 </header>
 
                 <main class="modal__content" id="modal-1-content">
-                    <a href="" target="_blank">
-                        <img alt="" src="doc/popup-new.jpeg">
-                    </a>
+                        <img alt="" src="/doc/flbovefat.jpg">
                 </main>
 
             </div>

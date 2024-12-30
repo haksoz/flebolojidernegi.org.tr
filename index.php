@@ -98,6 +98,26 @@
                                         <div class="" data-flex_fx="fade" data-interval="5">
                                             <ul class="slides">
 
+                                                <a class="link_image" href="/duyurular.php" title="Flebolojide Gri Alanlar" target="_blank"><img alt="" class="" height="315" src="/doc/flebolojigrialanizmirbanner.jpg" title="Flebolojide Gri Alanlar" width="1080"></a>
+
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="vc_row wpb_row td-pb-row">
+                    <div class="wpb_column vc_column_container td-pb-span12">
+                        <div class="vc_column-inner">
+                            <div class="wpb_wrapper">
+                                <div class="wpb_gallery wpb_posts_slider wpb_content_element">
+                                    <div class="wpb_wrapper">
+                                        <div class="" data-flex_fx="fade" data-interval="5">
+                                            <ul class="slides">
+
                                                 <a class="link_image" href="https://asvs2023.org/" title="24th Congress of Asian Society for Vascular Surgery" target="_blank"><img alt="" class="" height="315" src="doc/asvs1024.jpg" title="24th Congress of Asian Society for Vascular Surgery" width="1080"></a>
 
 

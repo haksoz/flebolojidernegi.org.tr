@@ -113,26 +113,6 @@
                     <div class="wpb_column vc_column_container td-pb-span12">
                         <div class="vc_column-inner">
                             <div class="wpb_wrapper">
-                                <div class="wpb_gallery wpb_posts_slider wpb_content_element">
-                                    <div class="wpb_wrapper">
-                                        <div class="" data-flex_fx="fade" data-interval="5">
-                                            <ul class="slides">
-
-                                                <a class="link_image" href="https://asvs2023.org/" title="24th Congress of Asian Society for Vascular Surgery" target="_blank"><img alt="" class="" height="315" src="doc/asvs1024.jpg" title="24th Congress of Asian Society for Vascular Surgery" width="1080"></a>
-
-
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="vc_row wpb_row td-pb-row">
-                    <div class="wpb_column vc_column_container td-pb-span12">
-                        <div class="vc_column-inner">
-                            <div class="wpb_wrapper">
                                 <div class="td_block_wrap td_block_15 td_uid_2_5e1ec026a3efd_rand td-pb-border-top" data-td-block-uid="td_uid_2_5e1ec026a3efd">
                                     <script>
                                         var block_td_uid_2_5e1ec026a3efd = new tdBlock();

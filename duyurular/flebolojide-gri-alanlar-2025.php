@@ -30,7 +30,7 @@
                             <article id="post-421" class="post-421 post type-post status-publish format-standard has-post-thumbnail hentry category-duyurular" itemscope itemtype="http://schema.org/Article">
                                 <div class="td-post-header">
                                     <header class="td-post-title">
-                                        <h1 class="entry-title">Flebolojide Gri Alanlar - 15/Mart/2025</h1>
+                                        <h1 class="entry-title">Flebolojide Gri Alanlar 2025</h1>
                                         <div class="td-module-meta-info">
                                         </div>
                                     </header>

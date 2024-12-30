@@ -37,7 +37,24 @@
                 <div class="td-pb-row">
                     <div class="td-pb-span12 td-main-content">
                         <div class="td-ss-main-content">
-                        <div class="td_module_10 td_module_wrap td-animation-stack">
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
+                                <div class="td-module-thumb" style="margin-bottom: 10px;">
+                                    <a href="/duyurular/flebolojide-gri-alanlar-2025.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025">
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/flebolojigrialanizmir.jpg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Flebolojide Gri Alanlar 2025" />
+                                    </a>
+                                </div>
+                                <div class="item-details">
+                                    <h3 class="entry-title td-module-title"><a href="/duyurular/flebolojide-gri-alanlar-2025.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025">Flebolojide Gri Alanlar 2025</a></h3>
+                                    <div class="td-module-meta-info">
+                                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-03-15T09:11:48+00:00">15 Mart 2025</time></span>
+                                    </div>
+
+                                    <div class="td-excerpt">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb">
                                     <a href="/duyurular/secimli-genel-kurul-2024.php" rel="bookmark" title="Seçimli Genel Kurul 2024">
                                         <img width="218" height="150" class="entry-thumb" src="/doc/popup-new.jpeg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Seçimli Genel Kurul 2024" />
@@ -295,6 +312,11 @@
     </div><!--close td-outer-wrap-->
 
     <?php include('script.php') ?>
+    <style>
+        .td_module_10{
+            margin-bottom: 100px;
+        }
+    </style>
 
 </body>
 

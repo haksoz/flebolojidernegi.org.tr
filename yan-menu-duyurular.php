@@ -18,6 +18,24 @@
         </div>
         <div id=td_uid_2_5e1ec04980096 class="td_block_inner">
 
+            <div class="td-block-span12" style="margin-bottom: 15px;">
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+                    <div class="td-module-thumb">
+                        <a href="/duyurular/flebolojide-gri-alanlar-2025.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025">
+                            <img width="100" height="70" class="entry-thumb" src="../doc/flebolojigrialanizmir.jpg" alt="Flebolojide Gri Alanlar 2025" title="Flebolojide Gri Alanlar 2025" />
+                        </a>
+                    </div>
+                    <div class="item-details">
+                        <h3 class="entry-title td-module-title">
+                            <a href="/duyurular/flebolojide-gri-alanlar-2025.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025">Flebolojide Gri Alanlar 2025</a>
+                        </h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-01-14T09:11:48+00:00">15 Mart 2025</time></span>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- ./td-block-span12 -->
+
             <div class="td-block-span12">
 
                 <div class="td_module_6 td_module_wrap td-animation-stack">

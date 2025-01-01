@@ -55,38 +55,7 @@
                                     <div class="td-post-source-tags">
                                     </div>
 
-                                    <div class="td-post-sharing td-post-sharing-bottom td-with-like"><span class="td-post-share-title">Paylaş</span>
-                                        <div class="td-default-sharing">
-                                            <a class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.flebolojidernegi.org.tr%2Fsecimli-genel-kurul-2019%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i>
-                                                <div class="td-social-but-text">Facebook</div>
-                                            </a>
-                                            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=Se%C3%A7imli+Genel+Kurul&amp;url=http%3A%2F%2Fwww.flebolojidernegi.org.tr%2Fsecimli-genel-kurul-2019%2F&amp;via=Fleboloji+Derne%C4%9Fi"><i class="td-icon-twitter"></i>
-                                                <div class="td-social-but-text">Twitter</div>
-                                            </a>
-                                            <a class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=http://www.flebolojidernegi.org.tr/secimli-genel-kurul-2019/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>
-                                            <a class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=http://www.flebolojidernegi.org.tr/secimli-genel-kurul-2019/&amp;media=../wp-content/uploads/2019/12/secimli-genel-kurul_2019.jpg&amp;description=Se%C3%A7imli+Genel+Kurul" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>
-                                            <a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=Se%C3%A7imli+Genel+Kurul%20-%20http%3A%2F%2Fwww.flebolojidernegi.org.tr%2Fsecimli-genel-kurul-2019%2F"><i class="td-icon-whatsapp"></i></a>
-                                        </div>
-                                        <div class="td-classic-sharing">
-                                            <ul>
-                                                <li class="td-classic-facebook"><iframe frameBorder="0" src="http://www.facebook.com/plugins/like.php?href=http://www.flebolojidernegi.org.tr/secimli-genel-kurul-2019/&amp;layout=button_count&amp;show_faces=false&amp;width=105&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:105px; height:21px; background-color:transparent;"></iframe>
-                                                </li>
-                                                <li class="td-classic-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.flebolojidernegi.org.tr/secimli-genel-kurul-2019/" data-text="Seçimli Genel Kurul" data-via="" data-lang="en">tweet</a>
-                                                    <script>
-                                                        ! function(d, s, id) {
-                                                            var js, fjs = d.getElementsByTagName(s)[0];
-                                                            if (!d.getElementById(id)) {
-                                                                js = d.createElement(s);
-                                                                js.id = id;
-                                                                js.src = "../../platform.twitter.com/widgets.js";
-                                                                fjs.parentNode.insertBefore(js, fjs);
-                                                            }
-                                                        }(document, "script", "twitter-wjs");
-                                                    </script>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
+
                                     <div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="javascript:void(0);">Fleboloji Derneği</a></span></div>
                                     <span style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person">
                                         <meta itemprop="name" content="Fleboloji Derneği">

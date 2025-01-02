@@ -1,4 +1,4 @@
-    <!-- modal içeriği burada başlar -->
+
 
     <div class="modal micromodal-slide" id="modal-1" aria-hidden="true">
         <div class="modal__overlay" tabindex="-1" data-micromodal-close>
@@ -18,7 +18,7 @@
         </div>
     </div>
 
-    <!-- modal içeriği burada biter -->
+
 
 
     <script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>

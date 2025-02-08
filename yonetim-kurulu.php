@@ -79,10 +79,10 @@
                                         <p><b>Genel Sekreter</b></p>
                                         <div class="td_module_10 td_module_wrap td-animation-stack">
                                             <div class="td-module-thumb">
-                                                <img width="218" height="150" class="entry-thumb" src="/doc/kurullar/ali-aycan-kavala.jpg" alt="" title="" />
+                                                <img width="218" height="150" class="entry-thumb" src="/doc/kurullar/ali-aycan-kavala-2.jpg" alt="" title="" />
                                             </div>
                                             <div class="item-details kurullar">
-                                                <h3 class="entry-title td-module-title">Doç. Dr. Ali Aycan KAVALA</h3>
+                                                <h3 class="entry-title td-module-title">Prof. Dr. Ali Aycan KAVALA</h3>
 
                                                 <div class="td-excerpt" style="display: contents;">
                                                     Sağlık Bilimleri Üniversitesi, Bakırköy Dr. Sadi Konuk Eğitim

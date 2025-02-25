@@ -39,6 +39,23 @@
                         <div class="td-ss-main-content">
                             <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb" style="margin-bottom: 10px;">
+                                    <a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="FleboRoyale Meet the Experts">
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/duyurular/fleboroyale-montenegro.jpg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="FleboRoyale Meet the Experts" />
+                                    </a>
+                                </div>
+                                <div class="item-details">
+                                    <h3 class="entry-title td-module-title"><a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="FleboRoyale Meet the Experts">FleboRoyale Meet the Experts</a></h3>
+                                    <div class="td-module-meta-info">
+                                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-05-30T09:11:48+00:00">30 Mayıs 2025</time></span>
+                                    </div>
+
+                                    <div class="td-excerpt">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
+                                <div class="td-module-thumb" style="margin-bottom: 10px;">
                                     <a href="/duyurular/flebolojide-gri-alanlar-2025.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025">
                                         <img width="218" height="150" class="entry-thumb" src="/doc/flebolojigrialanizmir.jpg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Flebolojide Gri Alanlar 2025" />
                                     </a>

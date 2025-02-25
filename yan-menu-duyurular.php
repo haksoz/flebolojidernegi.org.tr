@@ -17,7 +17,23 @@
             <h4 class="block-title"><span>DUYURULAR</span></h4>
         </div>
         <div id=td_uid_2_5e1ec04980096 class="td_block_inner">
-
+            <div class="td-block-span12" style="margin-bottom: 15px;">
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+                    <div class="td-module-thumb">
+                        <a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="FleboRoyale Meet the Experts 2025">
+                            <img width="100" height="70" class="entry-thumb" src="/doc/duyurular/fleboroyale-montenegro.jpg" alt="FleboRoyale Meet the Experts 2025" title="FleboRoyale Meet the Experts 2025" />
+                        </a>
+                    </div>
+                    <div class="item-details">
+                        <h3 class="entry-title td-module-title">
+                            <a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="FleboRoyale Meet the Experts 2025">FleboRoyale Meet the Experts 2025</a>
+                        </h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-05-30T09:11:48+00:00">30 Mayıs 2025</time></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="td-block-span12" style="margin-bottom: 15px;">
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">

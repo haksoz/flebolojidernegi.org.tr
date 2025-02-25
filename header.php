@@ -49,11 +49,8 @@
                                     <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-386">
                                         <a href="/duyurular.php">Duyurular</a>
                                     </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-472">
-                                        <a href="/duyurular/ven-gunleri-2018.php">Ven Günleri | 2018</a>
-                                    </li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-58">
-                                        <a href="/duyurular/ven-gunleri-2017.php">Ven Günleri | 2017</a>
+                                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-386">
+                                        <a href="/arsiv.php">Arşiv</a>
                                     </li>
                                 </ul>
                             </li>

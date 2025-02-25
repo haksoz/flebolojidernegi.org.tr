@@ -3,7 +3,7 @@
 <?php $page = 'duyurular'; ?>
 
 <head>
-    <title>FleboRoyale Meet the Experts | Fleboloji Derneği</title>
+    <title>Flebo Royale Meet the Experts | Fleboloji Derneği</title>
     <?php include('../head.php') ?>
 </head>
 
@@ -20,7 +20,7 @@
                             <a title="Tüm içerikleri göster Duyurular" class="entry-crumb" itemscope itemprop="item" itemtype="http://schema.org/Thing" href="/duyurular.php">
                                 <span itemprop="name">Duyurular</span> </a>
                             <meta itemprop="position" content="1">
-                        </span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">FleboRoyale Meet the Experts 2025</span></div>
+                        </span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Flebo Royale Meet the Experts 2025</span></div>
                 </div>
 
                 <div class="td-pb-row">
@@ -30,7 +30,7 @@
                             <article id="post-421" class="post-421 post type-post status-publish format-standard has-post-thumbnail hentry category-duyurular" itemscope itemtype="http://schema.org/Article">
                                 <div class="td-post-header">
                                     <header class="td-post-title">
-                                        <h1 class="entry-title">FleboRoyale Meet the Experts 2025</h1>
+                                        <h1 class="entry-title">Flebo Royale Meet the Experts 2025</h1>
                                         <div class="td-module-meta-info">
                                         </div>
                                     </header>

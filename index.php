@@ -136,6 +136,16 @@
                                                 <div class="td_module_mx4 td_module_wrap td-animation-stack">
                                                     <div class="td-module-image">
                                                         <div class="td-module-thumb">
+                                                            <a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="Flebo Royale Meet the Experts 2025"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/fleboroyale-montenegro.jpg" srcset="" title="Flebo Royale Meet the Experts 2025" width="218"></a>
+                                                        </div>
+                                                    </div>
+                                                    <h3 class="entry-title td-module-title"><a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="Flebo Royale Meet the Experts 2025">Flebo Royale Meet the Experts 2025</a></h3>
+                                                </div>
+                                            </div>
+                                            <div class="td-block-span4">
+                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                    <div class="td-module-image">
+                                                        <div class="td-module-thumb">
                                                             <a href="/duyurular/secimli-genel-kurul-2024.php" rel="bookmark" title="Seçimli Genel Kurul 2024"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/popup-new.jpeg" srcset="" title="Seçimli Genel Kurul 2024" width="218"></a>
                                                         </div>
                                                     </div>

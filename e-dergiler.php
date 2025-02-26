@@ -46,7 +46,7 @@
                         </div>
                     </div>
                     <div class="td-pb-span4 td-main-sidebar" role="complementary">
-                        <?php include('yan-menu-duyurular.php')?>
+                        <?php include('yan-menu-duyurular-guncel.php') ?>
                     </div>
                 </div> <!-- /.td-pb-row -->
             </div> <!-- /.td-container -->

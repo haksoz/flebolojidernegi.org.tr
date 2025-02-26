@@ -146,74 +146,13 @@
                                                 <div class="td_module_mx4 td_module_wrap td-animation-stack">
                                                     <div class="td-module-image">
                                                         <div class="td-module-thumb">
-                                                            <a href="/duyurular/secimli-genel-kurul-2024.php" rel="bookmark" title="Seçimli Genel Kurul 2024"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/popup-new.jpeg" srcset="" title="Seçimli Genel Kurul 2024" width="218"></a>
+                                                            <a href="/duyurular/flebolojide-gri-alanlar-2025.php" rel="bookmark" title="Seçimli Genel Kurul 2024"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="/doc/flebolojigrialanizmir.jpg" srcset="" title="Flebolojide Gri Alanlar 2025" width="218"></a>
                                                         </div>
                                                     </div>
-                                                    <h3 class="entry-title td-module-title"><a href="/duyurular/secimli-genel-kurul-2024.php" rel="bookmark" title="Seçimli Genel Kurul 2024">Seçimli Genel Kurul 2024</a></h3>
+                                                    <h3 class="entry-title td-module-title"><a href="/duyurular/flebolojide-gri-alanlar-2025.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025">Flebolojide Gri Alanlar 2025</a></h3>
                                                 </div>
                                             </div>
-                                            <div class="td-block-span4">
-                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
-                                                    <div class="td-module-image">
-                                                        <div class="td-module-thumb">
-                                                            <a href="/duyurular/venozpataloji2022.php" rel="bookmark" title="Venöz Patolojilerin Tedavisinde 2022 Güncellemesi"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/venoz-2022-300X207.jpg" srcset="" title="Venöz Patolojilerin Tedavisinde 2022 Güncellemesi" width="218"></a>
-                                                        </div>
-                                                    </div>
-                                                    <h3 class="entry-title td-module-title"><a href="/duyurular/venozpataloji2022.php" rel="bookmark" title="Periferik Arter ve Ven Hastalıkları Ulusal Tedavi Kılavuzu 2021">Venöz Patolojilerin Tedavisinde 2022 Güncellemesi 29 Ocak 2022, Cumartesi</a></h3>
-                                                </div>
-                                            </div><!-- ./td-block-span4 -->
-                                            <div class="td-block-span4">
-                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
-                                                    <div class="td-module-image">
-                                                        <div class="td-module-thumb">
-                                                            <a href="/kilavuzlar.php" rel="bookmark" title="Periferik Arter ve Ven Hastalıkları Ulusal Tedavi Kılavuzu 2021"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/ulusal_tedavi_klavuzu_2021-1.jpg" srcset="doc/ulusal_tedavi_klavuzu_2021-1.jpg 218w, wp-content/uploads/2020/01/GENEL-KURUL-100x70.png 100w" title="Periferik Arter ve Ven Hastalıkları Ulusal Tedavi Kılavuzu 2021" width="218"></a>
-                                                        </div>
-                                                    </div>
-                                                    <h3 class="entry-title td-module-title"><a href="/kilavuzlar.php" rel="bookmark" title="Periferik Arter ve Ven Hastalıkları Ulusal Tedavi Kılavuzu 2021">Periferik Arter ve Ven Hastalıkları Ulusal Tedavi Kılavuzu 2021</a></h3>
-                                                </div>
-                                            </div><!-- ./td-block-span4 -->
 
-                                            <!-- <div class="td-block-span4">
-                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
-                                                    <div class="td-module-image">
-                                                        <div class="td-module-thumb">
-                                                            <a href="secimli-genel-kurul-2019/index.html" rel="bookmark" title="Seçimli Genel Kurul"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="wp-content/uploads/2019/12/secimli-genel-kurul_2019-218x150.jpg" srcset="wp-content/uploads/2019/12/secimli-genel-kurul_2019-218x150.jpg 218w, wp-content/uploads/2019/12/secimli-genel-kurul_2019-100x70.jpg 100w" title="Seçimli Genel Kurul" width="218"></a>
-                                                        </div>
-                                                    </div>
-                                                    <h3 class="entry-title td-module-title"><a href="secimli-genel-kurul-2019/index.html" rel="bookmark" title="Seçimli Genel Kurul">Seçimli Genel Kurul</a></h3>
-                                                </div>
-                                            </div> -->
-                                            <div class="td-block-span4">
-                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
-                                                    <div class="td-module-image">
-                                                        <div class="td-module-thumb">
-                                                            <a href="/duyurular/ankara-kteph-icin-bulusuyor.php" rel="bookmark" title="Ankara KTEPH için buluşuyor | 9-10 Haziran 2018"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="wp-content/uploads/2018/05/9_10Haziran2018_rvz_08062018_-218x150.jpg" srcset="wp-content/uploads/2018/05/9_10Haziran2018_rvz_08062018_-218x150.jpg 218w, wp-content/uploads/2018/05/9_10Haziran2018_rvz_08062018_-100x70.jpg 100w" title="Ankara KTEPH için buluşuyor | 9-10 Haziran 2018" width="218"></a>
-                                                        </div>
-                                                    </div>
-                                                    <h3 class="entry-title td-module-title"><a href="/duyurular/ankara-kteph-icin-bulusuyor.php" rel="bookmark" title="Ankara KTEPH için buluşuyor | 9-10 Haziran 2018">Ankara KTEPH için buluşuyor | 9-10 Haziran 2018</a></h3>
-                                                </div>
-                                            </div><!-- ./td-block-span4 -->
-<!--                                            <div class="td-block-span4">-->
-<!--                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">-->
-<!--                                                    <div class="td-module-image">-->
-<!--                                                        <div class="td-module-thumb">-->
-<!--                                                            <a href="/duyurular/ven-gunleri-2018.php" rel="bookmark" title="VEN GÜNLERİ 2018 PROGRAMI"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="wp-content/uploads/2018/02/VEN-GUNLERI-2018-218x150.jpg" srcset="wp-content/uploads/2018/02/VEN-GUNLERI-2018-218x150.jpg 218w, wp-content/uploads/2018/02/VEN-GUNLERI-2018-100x70.jpg 100w" title="VEN GÜNLERİ 2018 PROGRAMI" width="218"></a>-->
-<!--                                                        </div>-->
-<!--                                                    </div>-->
-<!--                                                    <h3 class="entry-title td-module-title"><a href="/duyurular/ven-gunleri-2018.php" rel="bookmark" title="VEN GÜNLERİ 2018 PROGRAMI">VEN GÜNLERİ 2018 PROGRAMI</a></h3>-->
-<!--                                                </div>-->
-<!--                                            </div>-->
-                                            <!--
-                                            <div class="td-block-span4">
-                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
-                                                    <div class="td-module-image">
-                                                        <div class="td-module-thumb">
-                                                            <a href="uip-dunya-kongresi-2021-yilinda-istanbulda/index.html" rel="bookmark" title="UIP Dünya Kongresi 2021 Yılında İstanbul&#8217;da&#8230;"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="wp-content/uploads/2018/02/UIP-KONGRESI_2021-218x150.jpg" srcset="wp-content/uploads/2018/02/UIP-KONGRESI_2021-218x150.jpg 218w, wp-content/uploads/2018/02/UIP-KONGRESI_2021-100x70.jpg 100w" title="UIP Dünya Kongresi 2021 Yılında İstanbul&#8217;da&#8230;" width="218"></a>
-                                                        </div>
-                                                    </div>
-                                                    <h3 class="entry-title td-module-title"><a href="uip-dunya-kongresi-2021-yilinda-istanbulda/index.html" rel="bookmark" title="UIP Dünya Kongresi 2021 Yılında İstanbul&#8217;da&#8230;">UIP Dünya Kongresi 2021 Yılında İstanbul&#8217;da&#8230;</a></h3>
-                                                </div>
-                                            </div>-->
                                         </div><!--./row-fluid-->
                                     </div>
                                 </div><!-- ./block -->

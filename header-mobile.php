@@ -37,17 +37,15 @@
                     </li>
                     <li class="<?php echo $page == 'duyurular' ? 'current-menu-item' : '' ?> menu-item menu-item-type-custom menu-item-object-custom current_page_item menu-item-home menu-item-has-children menu-item-56" id="menu-item-56">
                         <a href="javascript:void(0);">DUYURULAR<i class="td-icon-menu-right td-element-after"></i></a>
+                        
                         <ul class="sub-menu">
-                            <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-386" id="menu-item-386">
-                                <a href="/duyurular.php">Duyurular</a>
-                            </li>
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472" id="menu-item-472">
-                                <a href="/duyurular/ven-gunleri-2018.php">Ven Günleri | 2018</a>
-                            </li>
-                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58" id="menu-item-58">
-                                <a href="/duyurular/ven-gunleri-2017.php">Ven Günleri | 2017</a>
-                            </li>
-                        </ul>
+                                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-386">
+                                        <a href="/duyurular.php">Duyurular</a>
+                                    </li>
+                                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-386">
+                                        <a href="/arsiv.php">Arşiv</a>
+                                    </li>
+                                </ul>
                     </li>
                     <li class="<?php echo $page == 'onam-formlari' ? 'current-menu-item' : '' ?> menu-item menu-item-type-post_type menu-item-object-page menu-item-174" id="menu-item-174">
                         <a href="/onam-formlari.php">ONAM FORMLARI</a>

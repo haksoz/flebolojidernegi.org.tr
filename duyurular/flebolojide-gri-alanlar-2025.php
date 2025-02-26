@@ -36,7 +36,7 @@
                                     </header>
                                 </div>
                                 <div class="td-post-content">
-                                    <img src="../doc/duyurular/flebolojigrialanizmirPROGRAM.jpeg">
+                                    <img src="../doc/duyurular/flebolojigrialanizmir-program.jpg">
                                     <div>
                                         <p>İletişim sayfasında yer alan<a href="mailto:grialanlar@soloevent.net"> grialanlar@soloevent.net</a>
                                         adresine iletişim bilgilerinizle birlikte ön kayıt için mail atmanızı rica ederiz.</p>

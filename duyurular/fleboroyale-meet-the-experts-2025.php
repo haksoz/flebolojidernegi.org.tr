@@ -36,7 +36,7 @@
                                     </header>
                                 </div>
                                 <div class="td-post-content">
-                                    <img src="../doc/duyurular/fleboroyale-montenegro.jpg">
+                                    <img src="../doc/duyurular/fleboroyale-montenegro.jpg?v=3">
                                     <div>
                                         <p>
                                             Detaylı bilgi için

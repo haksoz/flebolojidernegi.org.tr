@@ -37,6 +37,9 @@
                                 </div>
                                 <div class="td-post-content">
                                     <img src="../doc/duyurular/fleboroyale-montenegro.jpg?v=3">
+                                    <a href="/doc/duyurular/fleboroyal-program.pdf" class="btn btn-block btn-primary" target="_blank" style="margin-bottom: 20px;">Programı İndirmek için Tıklayınız</a>
+                                    <img src="../doc/duyurular/fleboroyal-program-1.png?v=3">
+                                    <img src="../doc/duyurular/fleboroyal-program-2.png?v=3">
                                     <div>
                                         <p>
                                             Detaylı bilgi için
@@ -93,7 +96,102 @@
     </div><!--close td-outer-wrap-->
 
     <?php include('../script.php') ?>
+    <style>
+        .btn {
+            display: inline-block;
+            font-weight: 400;
+            line-height: 1.5;
+            color: #212529;
+            text-align: center;
+            text-decoration: none;
+            vertical-align: middle;
+            cursor: pointer;
+            user-select: none;
+            background-color: transparent;
+            border: 1px solid transparent;
+            padding: 0.375rem 0.75rem;
+            font-size: 1rem;
+            border-radius: 0.25rem;
+            transition:
+                    color 0.15s ease-in-out,
+                    background-color 0.15s ease-in-out,
+                    border-color 0.15s ease-in-out,
+                    box-shadow 0.15s ease-in-out;
+        }
 
+        .btn:hover {
+            color: #212529;
+        }
+
+        .btn:focus {
+            outline: 0;
+            box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+        }
+
+        .btn:disabled,
+        .btn.disabled {
+            pointer-events: none;
+            opacity: 0.65;
+        }
+
+        .btn-lg {
+            padding: 0.5rem 1rem;
+            font-size: 1.25rem;
+            border-radius: 0.3rem;
+        }
+
+        .btn-sm {
+            padding: 0.25rem 0.5rem;
+            font-size: 0.875rem;
+            border-radius: 0.2rem;
+        }
+        .btn-block {
+            display: block;
+            width: 100%;
+        }
+
+        .btn-primary {
+            color: #fff;
+            background-color: #0d6efd;
+            border-color: #0d6efd;
+        }
+
+        .btn-primary:hover {
+            color: #fff;
+            background-color: #0b5ed7;
+            border-color: #0a58ca;
+        }
+
+        .btn-primary:focus,
+        .btn-primary.focus {
+            color: #fff;
+            background-color: #0b5ed7;
+            border-color: #0a58ca;
+            box-shadow: 0 0 0 0.25rem rgba(49, 132, 253, 0.5);
+        }
+
+        .btn-primary.disabled,
+        .btn-primary:disabled {
+            color: #fff;
+            background-color: #0d6efd;
+            border-color: #0d6efd;
+            opacity: 0.65;
+        }
+
+        .btn-primary:not(:disabled):not(.disabled):active,
+        .btn-primary:not(:disabled):not(.disabled).active,
+        .show > .btn-primary.dropdown-toggle {
+            color: #fff;
+            background-color: #0a58ca;
+            border-color: #0a53be;
+        }
+
+        .btn-primary:not(:disabled):not(.disabled):active:focus,
+        .btn-primary:not(:disabled):not(.disabled).active:focus,
+        .show > .btn-primary.dropdown-toggle:focus {
+            box-shadow: 0 0 0 0.25rem rgba(49, 132, 253, 0.5);
+        }
+    </style>
 </body>
 
 </html>

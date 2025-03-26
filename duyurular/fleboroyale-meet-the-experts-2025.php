@@ -36,10 +36,10 @@
                                     </header>
                                 </div>
                                 <div class="td-post-content">
-                                    <img src="../doc/duyurular/fleboroyale-montenegro.jpg?v=3">
-                                    <a href="/doc/duyurular/fleboroyal-program.pdf" class="btn btn-block btn-primary" target="_blank" style="margin-bottom: 20px;">Programı İndirmek için Tıklayınız</a>
-                                    <img src="../doc/duyurular/fleboroyal-program-1.png?v=3">
-                                    <img src="../doc/duyurular/fleboroyal-program-2.png?v=3">
+                                    <img src="../doc/duyurular/fleboroyale-montenegro.jpg?v=4">
+                                    <a href="/doc/duyurular/fleboroyal-program.pdf?v=4" class="btn btn-block btn-primary" target="_blank" style="margin-bottom: 20px;">Programı İndirmek için Tıklayınız</a>
+                                    <img src="../doc/duyurular/fleboroyal-program-1.png?v=4">
+                                    <img src="../doc/duyurular/fleboroyal-program-2.png?v=4">
                                     <div>
                                         <p>
                                             Detaylı bilgi için

@@ -41,6 +41,13 @@
                                     <img src="../doc/duyurular/fleboroyal-program-1.png?v=4">
                                     <img src="../doc/duyurular/fleboroyal-program-2.png?v=4">
                                     <div>
+                                        <p>Toplantıya katılım ücretlidir. <br>
+
+                                            Hekim: 250 EUR <br>
+
+                                            Firma Yetkilisi: 300 EUR <br>
+
+                                            <span style="color: red">*</span>Vergiler ve diğer masraflar hariçtir.</p>
                                         <p>
                                             Detaylı bilgi için
                                             <a href="mailto:grialanlar@soloevent.net"> grialanlar@soloevent.net</a>

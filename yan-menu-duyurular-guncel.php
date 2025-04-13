@@ -21,7 +21,7 @@
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
                         <a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="Flebo Royale Meet the Experts 2025">
-                            <img width="100" height="70" class="entry-thumb" src="/doc/duyurular/fleboroyale-montenegro.jpg?v=3" alt="Flebo Royale Meet the Experts 2025" title="Flebo Royale Meet the Experts 2025" />
+                            <img width="100" height="70" class="entry-thumb" src="/doc/duyurular/fleboroyale-montenegro.png?v=6" alt="Flebo Royale Meet the Experts 2025" title="Flebo Royale Meet the Experts 2025" />
                         </a>
                     </div>
                     <div class="item-details">

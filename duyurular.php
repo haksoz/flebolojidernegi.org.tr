@@ -40,7 +40,7 @@
                             <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb" style="margin-bottom: 10px;">
                                     <a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="Flebo Royale Meet the Experts">
-                                        <img width="218" height="150" class="entry-thumb" src="/doc/duyurular/fleboroyale-montenegro.jpg?v=3" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Flebo Royale Meet the Experts" />
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/duyurular/fleboroyale-montenegro.png?v=6" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Flebo Royale Meet the Experts" />
                                     </a>
                                 </div>
                                 <div class="item-details">

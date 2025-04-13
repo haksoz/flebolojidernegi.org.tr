@@ -20,6 +20,23 @@
             <div class="td-block-span12" style="margin-bottom: 15px;">
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
+                        <a href="/duyurular/xv-annual-meeting-of-bvf-and-vein-silk-road.php" rel="bookmark" title="XV Annual Meeting of BVF & Vein Silk Road">
+                            <img width="100" height="70" class="entry-thumb" src="/doc/duyurular/bvf-card-resized.png" alt="XV Annual Meeting of BVF & Vein Silk Road" title="XV Annual Meeting of BVF & Vein Silk Road" />
+                        </a>
+                    </div>
+                    <div class="item-details">
+                        <h3 class="entry-title td-module-title">
+                            <a href="/duyurular/xv-annual-meeting-of-bvf-and-vein-silk-road.php" rel="bookmark" title="XV Annual Meeting of BVF & Vein Silk Road">XV Annual Meeting of BVF & Vein Silk Road</a>
+                        </h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-05-30T09:11:48+00:00">12-16 Haziran 2025</time></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="td-block-span12" style="margin-bottom: 15px;">
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+                    <div class="td-module-thumb">
                         <a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="Flebo Royale Meet the Experts 2025">
                             <img width="100" height="70" class="entry-thumb" src="/doc/duyurular/fleboroyale-montenegro.png?v=6" alt="Flebo Royale Meet the Experts 2025" title="Flebo Royale Meet the Experts 2025" />
                         </a>
@@ -29,7 +46,7 @@
                             <a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="Flebo Royale Meet the Experts 2025">Flebo Royale Meet the Experts 2025</a>
                         </h3>
                         <div class="td-module-meta-info">
-                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-05-30T09:11:48+00:00">30 Mayıs 2025</time></span>
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-05-30T09:11:48+00:00">31 Mayıs 2025</time></span>
                         </div>
                     </div>
                 </div>

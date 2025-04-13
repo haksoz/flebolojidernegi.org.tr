@@ -136,6 +136,20 @@
                                                 <div class="td_module_mx4 td_module_wrap td-animation-stack">
                                                     <div class="td-module-image">
                                                         <div class="td-module-thumb">
+                                                            <a href="/duyurular/xv-annual-meeting-of-bvf-and-vein-silk-road.php" rel="bookmark" title="XV Annual Meeting of BVF & Vein Silk Road">
+                                                                <img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/bvf-card-resized.png" srcset="" title="XV Annual Meeting of BVF & Vein Silk Road" width="218">
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                    <h3 class="entry-title td-module-title">
+                                                        <a href="/duyurular/xv-annual-meeting-of-bvf-and-vein-silk-road.php" rel="bookmark" title="XV Annual Meeting of BVF & Vein Silk Road">XV Annual Meeting of BVF & Vein Silk Road</a>
+                                                    </h3>
+                                                </div>
+                                            </div>
+                                            <div class="td-block-span4">
+                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                    <div class="td-module-image">
+                                                        <div class="td-module-thumb">
                                                             <a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="Flebo Royale Meet the Experts 2025"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/fleboroyale-montenegro.png?v=6" srcset="" title="Flebo Royale Meet the Experts 2025" width="218"></a>
                                                         </div>
                                                     </div>

@@ -51,7 +51,7 @@
                                             <span style="color: red">*</span>Vergiler ve diğer masraflar hariçtir.</p>
                                         <p>
                                             Detaylı bilgi için
-                                            <a href="mailto:grialanlar@soloevent.net"> grialanlar@soloevent.net</a>
+                                            <a href="mailto:fleboloji@soloevent.net"> fleboloji@soloevent.net</a>
                                             adresi ile iletişime geçebilirsiniz.
                                         </p>
                                     </div>

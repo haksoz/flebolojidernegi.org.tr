@@ -1,5 +1,21 @@
+<?php
+// Popup gösterim tarihi değişkeni
+$showUntilDate = '2025-05-26 23:59:59'; // Bu tarihe kadar gösterilecek, boş bırakılırsa süresiz gösterilir
+$showPopup = true;
 
+// Eğer tarih parametresi varsa ve geçmişse popup gösterilmeyecek
+if (!empty($showUntilDate)) {
+    $currentTime = time();
+    $untilTime = strtotime($showUntilDate);
+    
+    if ($currentTime > $untilTime) {
+        $showPopup = false;
+    }
+}
 
+// Popup sadece gösterilmesi gerekiyorsa gösterilecek
+if ($showPopup) {
+?>
     <div class="modal micromodal-slide" id="modal-1" aria-hidden="true">
         <div class="modal__overlay" tabindex="-1" data-micromodal-close>
             <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title">
@@ -11,15 +27,12 @@
                 </header>
 
                 <main class="modal__content" id="modal-1-content">
-                        <img alt="" src="/doc/ayse-erdil-vefat.png">
+                        <img alt="" src="/doc/flbovefat.jpg">
                 </main>
 
             </div>
         </div>
     </div>
-
-
-
 
     <script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
 
@@ -39,3 +52,6 @@
         MicroModal.show('modal-1');
     </script>
     <link rel="stylesheet" href="css/modal.css?v=2">
+<?php
+}
+?>

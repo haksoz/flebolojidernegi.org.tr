@@ -11,7 +11,7 @@
                 </header>
 
                 <main class="modal__content" id="modal-1-content">
-                        <img alt="" src="/doc/flbovefat.jpg">
+                        <img alt="" src="/doc/ayse-erdil-vefat.png">
                 </main>
 
             </div>

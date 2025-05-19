@@ -187,10 +187,9 @@
         
     </div><!--close td-outer-wrap-->
 
-<!--
+
     <?php include('popup.php') ?>
 
--->
 
     <?php include('script.php') ?>
 

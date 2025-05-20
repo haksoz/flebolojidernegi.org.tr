@@ -39,7 +39,26 @@
                         <div class="td-ss-main-content">
                             <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb" style="margin-bottom: 10px;">
-                                    <a href="/duyurular/xv-annual-meeting-of-bvf-and-vein-silk-road.php" rel="bookmark" title="XV Annual Meeting of BVF & Vein Silk Road">
+                                    <a href="/duyurular/flebolojide-gri-alanlar-2025-alanya.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Alanya">
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/duyurular/alanya-kare.jpg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Flebolojide Gri Alanlar 2025 Alanya" />
+                                    </a>
+                                </div>
+                                <div class="item-details">
+                                    <h3 class="entry-title td-module-title">
+                                        <a href="/duyurular/flebolojide-gri-alanlar-2025-alanya.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Alanya">Flebolojide Gri Alanlar 2025 Alanya</a>
+                                    </h3>
+                                    <div class="td-module-meta-info">
+                                        <span class="td-post-date">
+                                            <time class="entry-date updated td-module-date" datetime="2025-06-12T09:11:48+00:00">21 Haziran 2025</time></span>
+                                    </div>
+
+                                    <div class="td-excerpt">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
+                                <div class="td-module-thumb" style="margin-bottom: 10px;">
+                                    <a href="/duyurular/flebolojide-gri-alanlar-2025-alanya.php" rel="bookmark" title="XV Annual Meeting of BVF & Vein Silk Road">
                                         <img width="218" height="150" class="entry-thumb" src="/doc/duyurular/bvf-card-resized.png" sizes="(max-width: 218px) 100vw, 218px" alt="" title="XV Annual Meeting of BVF & Vein Silk Road" />
                                     </a>
                                 </div>

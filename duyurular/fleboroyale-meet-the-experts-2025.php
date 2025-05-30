@@ -37,10 +37,10 @@
                                 </div>
                                 <div class="td-post-content">
                                     <img src="../doc/duyurular/fleboroyale-montenegro.png?v=6">
-                                    <a href="/doc/duyurular/fleboroyal-program-v6.pdf?v=6" class="btn btn-block btn-primary" target="_blank" style="margin-bottom: 20px;">Programı İndirmek için Tıklayınız</a>
-                                    <img src="../doc/duyurular/fleboroyal-program-v6-1.jpg?v=6">
-                                    <img src="../doc/duyurular/fleboroyal-program-v6-2.jpg?v=6">
-                                    <img src="../doc/duyurular/fleboroyal-program-v6-3.jpg?v=6">
+                                    <a href="/doc/duyurular/fleboroyal-program-v6.pdf?v=7" class="btn btn-block btn-primary" target="_blank" style="margin-bottom: 20px;">Programı İndirmek için Tıklayınız</a>
+                                    <img src="../doc/duyurular/fleboroyal-program-v6-1.png?v=7">
+                                    <img src="../doc/duyurular/fleboroyal-program-v6-2.png?v=7">
+<!--                                    <img src="../doc/duyurular/fleboroyal-program-v6-3.jpg?v=6">-->
                                     <div>
                                         <p>Toplantıya katılım ücretlidir. <br>
 

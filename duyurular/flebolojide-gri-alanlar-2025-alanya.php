@@ -37,7 +37,7 @@
                                 </div>
                                 <div class="td-post-content">
                                     <img src="../doc/duyurular/alanya-kare.jpg">
-                                    <img src="../doc/duyurular/alanya-program.png?v=12345">
+                                    <img src="../doc/duyurular/alanya-program.png?v=234vj532f5">
 
                                 </div>
                                 <footer>

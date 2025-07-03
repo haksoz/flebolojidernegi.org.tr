@@ -97,7 +97,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="" data-flex_fx="fade" data-interval="5">
                                             <ul class="slides">
-                                                <a class="link_image" href="/duyurular.php" title="Flebolojide Gri Alanlar"><img alt="" class="" height="315" src="/doc/duyurular/alanya-banner.jpg" title="Flebolojide Gri Alanlar" width="1080"></a>
+                                                <a class="link_image" href="#" title="Flebolojide Gri Alanlar"><img alt="" class="" height="315" src="/doc/duyurular/gri-alanlar-ankara-banner.jpg" title="Flebolojide Gri Alanlar" width="1080"></a>
                                             </ul>
                                         </div>
                                     </div>
@@ -106,6 +106,23 @@
                         </div>
                     </div>
                 </div>
+<!--                <div class="vc_row wpb_row td-pb-row">-->
+<!--                    <div class="wpb_column vc_column_container td-pb-span12">-->
+<!--                        <div class="vc_column-inner">-->
+<!--                            <div class="wpb_wrapper">-->
+<!--                                <div class="wpb_gallery wpb_posts_slider wpb_content_element">-->
+<!--                                    <div class="wpb_wrapper">-->
+<!--                                        <div class="" data-flex_fx="fade" data-interval="5">-->
+<!--                                            <ul class="slides">-->
+<!--                                                <a class="link_image" href="/duyurular.php" title="Flebolojide Gri Alanlar"><img alt="" class="" height="315" src="/doc/duyurular/alanya-banner.jpg" title="Flebolojide Gri Alanlar" width="1080"></a>-->
+<!--                                            </ul>-->
+<!--                                        </div>-->
+<!--                                    </div>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
                 <div class="vc_row wpb_row td-pb-row">
                     <div class="wpb_column vc_column_container td-pb-span12">
                         <div class="vc_column-inner">

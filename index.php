@@ -97,7 +97,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="" data-flex_fx="fade" data-interval="5">
                                             <ul class="slides">
-                                                <a class="link_image" href="#" title="Flebolojide Gri Alanlar"><img alt="" class="" height="315" src="/doc/duyurular/gri-alanlar-ankara-banner.jpg" title="Flebolojide Gri Alanlar" width="1080"></a>
+                                                <a class="link_image" href="/duyurular/flebolojide-gri-alanlar-2025-ankara.php" title="Flebolojide Gri Alanlar"><img alt="" class="" height="315" src="/doc/duyurular/gri-alanlar-ankara-banner.jpg?v=123" title="Flebolojide Gri Alanlar" width="1080"></a>
                                             </ul>
                                         </div>
                                     </div>
@@ -146,6 +146,20 @@
                                     </div>
                                     <div class="td_block_inner td-column-3" id="td_uid_2_5e1ec026a3efd">
                                         <div class="td-block-row">
+                                            <div class="td-block-span4">
+                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                    <div class="td-module-image">
+                                                        <div class="td-module-thumb">
+                                                            <a href="/duyurular/flebolojide-gri-alanlar-2025-ankara.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Ankara">
+                                                                <img alt="Flebolojide Gri Alanlar 2025 Ankara" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/gri-alanlar-ankara-kare.jpg" srcset="" title="Flebolojide Gri Alanlar 2025 Ankara" width="218">
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                    <h3 class="entry-title td-module-title">
+                                                        <a href="/duyurular/flebolojide-gri-alanlar-2025-ankara.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Ankara">Flebolojide Gri Alanlar 2025 Ankara</a>
+                                                    </h3>
+                                                </div>
+                                            </div>
                                             <div class="td-block-span4">
                                                 <div class="td_module_mx4 td_module_wrap td-animation-stack">
                                                     <div class="td-module-image">

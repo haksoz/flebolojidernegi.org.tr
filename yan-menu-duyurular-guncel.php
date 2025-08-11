@@ -20,6 +20,23 @@
             <div class="td-block-span12" style="margin-bottom: 15px;">
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
+                        <a href="/duyurular/flebolojide-gri-alanlar-2025-ankara.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Ankara">
+                            <img width="100" height="70" class="entry-thumb" src="/doc/duyurular/gri-alanlar-ankara-kare.jpg" alt="Flebolojide Gri Alanlar 2025 Ankara" title="Flebolojide Gri Alanlar 2025 Ankara" />
+                        </a>
+                    </div>
+                    <div class="item-details">
+                        <h3 class="entry-title td-module-title">
+                            <a href="/duyurular/flebolojide-gri-alanlar-2025-ankara.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Ankara">Flebolojide Gri Alanlar 2025 Ankara</a>
+                        </h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-05-30T09:11:48+00:00">13 Eylül 2025</time></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="td-block-span12" style="margin-bottom: 15px;">
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+                    <div class="td-module-thumb">
                         <a href="/duyurular/flebolojide-gri-alanlar-2025-alanya.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Alanya">
                             <img width="100" height="70" class="entry-thumb" src="/doc/duyurular/alanya-kare.jpg" alt="Flebolojide Gri Alanlar 2025 Alanya" title="Flebolojide Gri Alanlar 2025 Alanya" />
                         </a>

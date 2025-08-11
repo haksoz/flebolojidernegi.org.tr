@@ -38,7 +38,11 @@
                                 <div class="td-post-content">
                                     <img src="../doc/duyurular/gri-alanlar-ankara-kare.jpg">
                                     <img src="../doc/duyurular/gri-alanlar-ankara-program.png">
-
+                                    <p>
+                                        İletişim sayfasında yer alan
+                                        <a href="mailto:fleboloji@soloevent.net"> fleboloji@soloevent.net</a>
+                                        adresine iletişim bilgilerinizle birlikte ön kayıt için mail atmanızı rica ederiz.
+                                    </p>
                                 </div>
                                 <footer>
 

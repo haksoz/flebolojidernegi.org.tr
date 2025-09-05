@@ -37,7 +37,7 @@
                                 </div>
                                 <div class="td-post-content">
                                     <img src="../doc/duyurular/gri-alanlar-ankara-kare.jpg">
-                                    <img src="../doc/duyurular/gri-alanlar-ankara-program.png?v=521234">
+                                    <img src="../doc/duyurular/gri-alanlar-ankara-program.jpeg?v=52134234">
                                     <p>
                                         İletişim sayfasında yer alan
                                         <a href="mailto:fleboloji@soloevent.net"> fleboloji@soloevent.net</a>

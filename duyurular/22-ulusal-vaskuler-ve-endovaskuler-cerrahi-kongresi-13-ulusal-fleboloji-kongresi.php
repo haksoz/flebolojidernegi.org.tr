@@ -37,6 +37,7 @@
                                 </div>
                                 <div class="td-post-content">
                                     <img src="../doc/duyurular/13-ulusal-fleboloji-kongresi.jpg">
+                                    <p><a href="https://uvecd2025.org/" target="_blank">Kongre web sitesini ziyaret için tıklayınız. uvecd2025.org</a>
                                     <p>6-9 Kasım 2025 - Kremlin Palace Hotel, Antalya
                                 </div>
                                 <footer>

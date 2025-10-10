@@ -97,7 +97,7 @@
                                     <div class="wpb_wrapper">
                                         <div class="" data-flex_fx="fade" data-interval="5">
                                             <ul class="slides">
-                                                <a class="link_image" href="/duyurular/22-ulusal-vaskuler-ve-endovaskuler-cerrahi-kongresi-13-ulusal-fleboloji-kongresi.php" title="13. Ulusal Fleboloji Kongresi"><img alt="" class="" height="315" src="/doc/duyurular/13-ulusal-fleboloji-kongresi.jpg?v=123" title="13. Ulusal Fleboloji Kongresi" width="1080"></a>
+                                                <a class="link_image" target="_blank" href=" https://uvecd2025.org/" title="13. Ulusal Fleboloji Kongresi"><img alt="" class="" height="315" src="/doc/duyurular/13-ulusal-fleboloji-kongresi.jpg?v=123" title="13. Ulusal Fleboloji Kongresi" width="1080"></a>
                                             </ul>
                                         </div>
                                     </div>

@@ -20,6 +20,23 @@
             <div class="td-block-span12" style="margin-bottom: 15px;">
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
+                        <a href="/duyurular/22-ulusal-vaskuler-ve-endovaskuler-cerrahi-kongresi-13-ulusal-fleboloji-kongresi.php" rel="bookmark" title="13. Ulusal Fleboloji Kongresi">
+                            <img width="100" height="70" class="entry-thumb" src="/doc/duyurular/13-ulusal-fleboloji-kongresi-1x1.jpg" alt="13. Ulusal Fleboloji Kongresi" title="13. Ulusal Fleboloji Kongresi" />
+                        </a>
+                    </div>
+                    <div class="item-details">
+                        <h3 class="entry-title td-module-title">
+                            <a href="/duyurular/22-ulusal-vaskuler-ve-endovaskuler-cerrahi-kongresi-13-ulusal-fleboloji-kongresi.php" rel="bookmark" title="13. Ulusal Fleboloji Kongresi">22. Ulusal Vasküler ve Endovasküler Cerrahi Kongresi / 13. Ulusal Fleboloji Kongresi</a>
+                        </h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-05-30T09:11:48+00:00">6-9 Kasım 2025</time></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="td-block-span12" style="margin-bottom: 15px;">
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+                    <div class="td-module-thumb">
                         <a href="/duyurular/flebolojide-gri-alanlar-2025-ankara.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Ankara">
                             <img width="100" height="70" class="entry-thumb" src="/doc/duyurular/gri-alanlar-ankara-kare.jpg" alt="Flebolojide Gri Alanlar 2025 Ankara" title="Flebolojide Gri Alanlar 2025 Ankara" />
                         </a>

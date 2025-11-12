@@ -164,74 +164,104 @@
                                         <h4 class="block-title"><span>SON EKLENENLER</span></h4>
                                     </div>
                                     <div class="td_block_inner td-column-3" id="td_uid_2_5e1ec026a3efd">
-                                        <div class="td-block-row">
-                                            <div class="td-block-span4">
-                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
-                                                    <div class="td-module-image">
-                                                        <div class="td-module-thumb">
-                                                            <a href="/duyurular/flebolojide-gri-alanlar-2025-ankara.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Ankara">
-                                                                <img alt="Flebolojide Gri Alanlar 2025 Ankara" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/gri-alanlar-ankara-kare.jpg" srcset="" title="Flebolojide Gri Alanlar 2025 Ankara" width="218">
-                                                            </a>
-                                                        </div>
+                                        <div class="owl-carousel son-eklenenler-carousel">
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
+                                                        <a href="/duyurular/saglikta-tanitim-yonetmeligi-guncellenmistir.php" rel="bookmark" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir">
+                                                            <img alt="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/resmi-gazete.jpg" srcset="" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir" width="218">
+                                                        </a>
                                                     </div>
-                                                    <h3 class="entry-title td-module-title">
-                                                        <a href="/duyurular/flebolojide-gri-alanlar-2025-ankara.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Ankara">Flebolojide Gri Alanlar 2025 Ankara</a>
-                                                    </h3>
                                                 </div>
+                                                <h3 class="entry-title td-module-title">
+                                                    <a href="/duyurular/saglikta-tanitim-yonetmeligi-guncellenmistir.php" rel="bookmark" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir">Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir</a>
+                                                </h3>
                                             </div>
-                                            <div class="td-block-span4">
-                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
-                                                    <div class="td-module-image">
-                                                        <div class="td-module-thumb">
-                                                            <a href="/duyurular/flebolojide-gri-alanlar-2025-alanya.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Alanya">
-                                                                <img alt="Flebolojide Gri Alanlar 2025 Alanya" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/alanya-kare.jpg" srcset="" title="Flebolojide Gri Alanlar 2025 Alanya" width="218">
-                                                            </a>
-                                                        </div>
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
+                                                        <a href="/duyurular/flebolojide-gri-alanlar-2025-ankara.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Ankara">
+                                                            <img alt="Flebolojide Gri Alanlar 2025 Ankara" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/gri-alanlar-ankara-kare.jpg" srcset="" title="Flebolojide Gri Alanlar 2025 Ankara" width="218">
+                                                        </a>
                                                     </div>
-                                                    <h3 class="entry-title td-module-title">
-                                                        <a href="/duyurular/flebolojide-gri-alanlar-2025-alanya.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Alanya">Flebolojide Gri Alanlar 2025 Alanya</a>
-                                                    </h3>
                                                 </div>
+                                                <h3 class="entry-title td-module-title">
+                                                    <a href="/duyurular/flebolojide-gri-alanlar-2025-ankara.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Ankara">Flebolojide Gri Alanlar 2025 Ankara</a>
+                                                </h3>
                                             </div>
-                                            <div class="td-block-span4">
-                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
-                                                    <div class="td-module-image">
-                                                        <div class="td-module-thumb">
-                                                            <a href="/duyurular/xv-annual-meeting-of-bvf-and-vein-silk-road.php" rel="bookmark" title="XV Annual Meeting of BVF & Vein Silk Road">
-                                                                <img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/bvf-card-resized.png" srcset="" title="XV Annual Meeting of BVF & Vein Silk Road" width="218">
-                                                            </a>
-                                                        </div>
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
+                                                        <a href="/duyurular/flebolojide-gri-alanlar-2025-alanya.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Alanya">
+                                                            <img alt="Flebolojide Gri Alanlar 2025 Alanya" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/alanya-kare.jpg" srcset="" title="Flebolojide Gri Alanlar 2025 Alanya" width="218">
+                                                        </a>
                                                     </div>
-                                                    <h3 class="entry-title td-module-title">
-                                                        <a href="/duyurular/xv-annual-meeting-of-bvf-and-vein-silk-road.php" rel="bookmark" title="XV Annual Meeting of BVF & Vein Silk Road">XV Annual Meeting of BVF & Vein Silk Road</a>
-                                                    </h3>
                                                 </div>
+                                                <h3 class="entry-title td-module-title">
+                                                    <a href="/duyurular/flebolojide-gri-alanlar-2025-alanya.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025 Alanya">Flebolojide Gri Alanlar 2025 Alanya</a>
+                                                </h3>
                                             </div>
-                                            <div class="td-block-span4">
-                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
-                                                    <div class="td-module-image">
-                                                        <div class="td-module-thumb">
-                                                            <a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="Flebo Royale Meet the Experts 2025"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/fleboroyale-montenegro.png?v=6" srcset="" title="Flebo Royale Meet the Experts 2025" width="218"></a>
-                                                        </div>
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
+                                                        <a href="/duyurular/xv-annual-meeting-of-bvf-and-vein-silk-road.php" rel="bookmark" title="XV Annual Meeting of BVF & Vein Silk Road">
+                                                            <img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/bvf-card-resized.png" srcset="" title="XV Annual Meeting of BVF & Vein Silk Road" width="218">
+                                                        </a>
                                                     </div>
-                                                    <h3 class="entry-title td-module-title"><a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="Flebo Royale Meet the Experts 2025">Flebo Royale Meet the Experts 2025</a></h3>
                                                 </div>
+                                                <h3 class="entry-title td-module-title">
+                                                    <a href="/duyurular/xv-annual-meeting-of-bvf-and-vein-silk-road.php" rel="bookmark" title="XV Annual Meeting of BVF & Vein Silk Road">XV Annual Meeting of BVF & Vein Silk Road</a>
+                                                </h3>
                                             </div>
-                                            <div class="td-block-span4">
-                                                <div class="td_module_mx4 td_module_wrap td-animation-stack">
-                                                    <div class="td-module-image">
-                                                        <div class="td-module-thumb">
-                                                            <a href="/duyurular/flebolojide-gri-alanlar-2025.php" rel="bookmark" title="Seçimli Genel Kurul 2024"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="/doc/flebolojigrialanizmir.jpg" srcset="" title="Flebolojide Gri Alanlar 2025" width="218"></a>
-                                                        </div>
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
+                                                        <a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="Flebo Royale Meet the Experts 2025"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/fleboroyale-montenegro.png?v=6" srcset="" title="Flebo Royale Meet the Experts 2025" width="218"></a>
                                                     </div>
-                                                    <h3 class="entry-title td-module-title"><a href="/duyurular/flebolojide-gri-alanlar-2025.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025">Flebolojide Gri Alanlar 2025</a></h3>
                                                 </div>
+                                                <h3 class="entry-title td-module-title"><a href="/duyurular/fleboroyale-meet-the-experts-2025.php" rel="bookmark" title="Flebo Royale Meet the Experts 2025">Flebo Royale Meet the Experts 2025</a></h3>
                                             </div>
-
-                                        </div><!--./row-fluid-->
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
+                                                        <a href="/duyurular/flebolojide-gri-alanlar-2025.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025"><img alt="" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="/doc/flebolojigrialanizmir.jpg" srcset="" title="Flebolojide Gri Alanlar 2025" width="218"></a>
+                                                    </div>
+                                                </div>
+                                                <h3 class="entry-title td-module-title"><a href="/duyurular/flebolojide-gri-alanlar-2025.php" rel="bookmark" title="Flebolojide Gri Alanlar 2025">Flebolojide Gri Alanlar 2025</a></h3>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div><!-- ./block -->
-                                <div class="clearfix"></div>
+
+                                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+                                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+                                <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+                                <script>
+                                jQuery(document).ready(function($) {
+                                    $('.son-eklenenler-carousel').owlCarousel({
+                                        loop: true,
+                                        margin: 30,
+                                        nav: true,
+                                        dots: true,
+                                        autoplay: true,
+                                        autoplayTimeout: 10000,
+                                        autoplayHoverPause: true,
+                                        navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+                                        responsive: {
+                                            0: {
+                                                items: 2
+                                            },
+                                            600: {
+                                                items: 2
+                                            },
+                                            1000: {
+                                                items: 4
+                                            }
+                                        }
+                                    });
+                                });
+                                </script>
                             </div>
                         </div>
                     </div>

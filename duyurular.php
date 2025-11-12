@@ -39,6 +39,25 @@
                         <div class="td-ss-main-content">
                             <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb" style="margin-bottom: 10px;">
+                                    <a href="/duyurular/saglikta-tanitim-yonetmeligi-guncellenmistir.php" rel="bookmark" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir">
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/duyurular/saglik-yonetmelik.jpg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir" />
+                                    </a>
+                                </div>
+                                <div class="item-details">
+                                    <h3 class="entry-title td-module-title">
+                                        <a href="/duyurular/saglikta-tanitim-yonetmeligi-guncellenmistir.php" rel="bookmark" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir">Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir</a>
+                                    </h3>
+                                    <div class="td-module-meta-info">
+                                        <span class="td-post-date">
+                                            <time class="entry-date updated td-module-date" datetime="2025-01-15T09:11:48+00:00">12 Kasım 2025</time>
+                                        </span>
+                                    </div>
+                                    <div class="td-excerpt">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
+                                <div class="td-module-thumb" style="margin-bottom: 10px;">
                                     <a href="/duyurular/22-ulusal-vaskuler-ve-endovaskuler-cerrahi-kongresi-13-ulusal-fleboloji-kongresi.php" rel="bookmark" title="13. Ulusal Fleboloji Kongresi">
                                         <img width="218" height="150" class="entry-thumb" src="/doc/duyurular/13-ulusal-fleboloji-kongresi-1x1.jpg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="13. Ulusal Fleboloji Kongresi" />
                                     </a>

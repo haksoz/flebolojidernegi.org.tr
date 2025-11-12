@@ -21,6 +21,22 @@
 
                 <div class="td_module_6 td_module_wrap td-animation-stack">
 
+                    <div class="td-module-thumb"><a href="/duyurular/saglikta-tanitim-yonetmeligi-guncellenmistir.php" rel="bookmark" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir"><img width="100" height="70" class="entry-thumb" src="../doc/duyurular/saglik-yonetmelik.jpg" alt="" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir" /></a></div>
+                    <div class="item-details">
+                        <h3 class="entry-title td-module-title"><a href="/duyurular/saglikta-tanitim-yonetmeligi-guncellenmistir.php" rel="bookmark" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir">Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir</a></h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-11-12T09:11:48+00:00">12 Kasım 2025</time></span>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div> <!-- ./td-block-span12 -->
+
+            <div class="td-block-span12">
+
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+
                     <div class="td-module-thumb"><a href="/duyurular/secimli-olagan-genel-kurul-duzenlendi.php" rel="bookmark" title="Seçimli Olağan Genel Kurul Düzenlendi"><img width="100" height="70" class="entry-thumb" src="../wp-content/uploads/2020/01/GENEL-KURUL-100x70.png" srcset="../wp-content/uploads/2020/01/GENEL-KURUL-100x70.png 100w, ../wp-content/uploads/2020/01/GENEL-KURUL-218x150.png 218w" sizes="(max-width: 100px) 100vw, 100px" alt="" title="Seçimli Olağan Genel Kurul Düzenlendi" /></a></div>
                     <div class="item-details">
                         <h3 class="entry-title td-module-title"><a href="/duyurular/secimli-olagan-genel-kurul-duzenlendi.php" rel="bookmark" title="Seçimli Olağan Genel Kurul Düzenlendi">Seçimli Olağan

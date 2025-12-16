@@ -168,6 +168,18 @@
                                             <div class="td_module_mx4 td_module_wrap td-animation-stack">
                                                 <div class="td-module-image">
                                                     <div class="td-module-thumb">
+                                                        <a href="/duyurular/secimli-genel-kurul-2026.php" rel="bookmark" title="Seçimli Genel Kurul 2026">
+                                                            <img alt="Seçimli Genel Kurul 2026" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/2026-secim-genel-kurulu-cropped.jpg" srcset="" title="Seçimli Genel Kurul 2026" width="218">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <h3 class="entry-title td-module-title">
+                                                    <a href="/duyurular/secimli-genel-kurul-2026.php" rel="bookmark" title="Seçimli Genel Kurul 2026">Seçimli Genel Kurul 2026</a>
+                                                </h3>
+                                            </div>
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
                                                         <a href="/duyurular/saglikta-tanitim-yonetmeligi-guncellenmistir.php" rel="bookmark" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir">
                                                             <img alt="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/duyurular/resmi-gazete.jpg" srcset="" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir" width="218">
                                                         </a>

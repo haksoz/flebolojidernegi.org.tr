@@ -39,6 +39,25 @@
                         <div class="td-ss-main-content">
                             <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb" style="margin-bottom: 10px;">
+                                    <a href="/duyurular/secimli-genel-kurul-2026.php" rel="bookmark" title="Seçimli Genel Kurul 2026">
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/2026-secim-genel-kurulu-cropped.jpg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Seçimli Genel Kurul 2026" />
+                                    </a>
+                                </div>
+                                <div class="item-details">
+                                    <h3 class="entry-title td-module-title">
+                                        <a href="/duyurular/secimli-genel-kurul-2026.php" rel="bookmark" title="Seçimli Genel Kurul 2026">Seçimli Genel Kurul 2026</a>
+                                    </h3>
+                                    <div class="td-module-meta-info">
+                                        <span class="td-post-date">
+                                            <time class="entry-date updated td-module-date" datetime="2025-12-16T12:00:00+00:00">16 Aralık 2025</time>
+                                        </span>
+                                    </div>
+                                    <div class="td-excerpt">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
+                                <div class="td-module-thumb" style="margin-bottom: 10px;">
                                     <a href="/duyurular/saglikta-tanitim-yonetmeligi-guncellenmistir.php" rel="bookmark" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir">
                                         <img width="218" height="150" class="entry-thumb" src="/doc/duyurular/saglik-yonetmelik.jpg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir" />
                                     </a>

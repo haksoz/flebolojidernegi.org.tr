@@ -21,6 +21,22 @@
 
                 <div class="td_module_6 td_module_wrap td-animation-stack">
 
+                    <div class="td-module-thumb"><a href="/duyurular/secimli-genel-kurul-2026.php" rel="bookmark" title="Seçimli Genel Kurul 2026"><img width="100" height="100" class="entry-thumb" src="../doc/2026-secim-genel-kurulu-cropped.jpg" alt="" title="Seçimli Genel Kurul 2026" /></a></div>
+                    <div class="item-details" style="margin-bottom: 10px;">
+                        <h3 class="entry-title td-module-title"><a href="/duyurular/secimli-genel-kurul-2026.php" rel="bookmark" title="Seçimli Genel Kurul 2026">Seçimli Genel Kurul 2026</a></h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-12-16T12:00:00+00:00">16 Aralık 2025</time></span>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div> <!-- ./td-block-span12 -->
+
+            <div class="td-block-span12">
+
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+
                     <div class="td-module-thumb"><a href="/duyurular/saglikta-tanitim-yonetmeligi-guncellenmistir.php" rel="bookmark" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir"><img width="100" height="70" class="entry-thumb" src="../doc/duyurular/saglik-yonetmelik.jpg" alt="" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir" /></a></div>
                     <div class="item-details">
                         <h3 class="entry-title td-module-title"><a href="/duyurular/saglikta-tanitim-yonetmeligi-guncellenmistir.php" rel="bookmark" title="Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir">Sağlıkta Tanıtım Yönetmeliği Güncellenmiştir</a></h3>

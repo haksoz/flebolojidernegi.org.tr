@@ -19,157 +19,146 @@
                             <div class="wpb_wrapper">
                                 <div class="wpb_text_column wpb_content_element ">
                                     <div class="wpb_wrapper">
-                                        <p><strong>YÖNETİM KURULU</strong></p>
-                                        <!-- <p><b>Yönetim Kurulu Başkanı</b><br>
-                                        Prof. Dr. Adnan Taner Kurdal<br>
-                                        Manisa Celal Bayar Üniversitesi, Tıp Fakültesi, Kalp ve Damar Cerrahisi </p>
-
-                                        <p><b>Yönetim Kurulu Başkan Yardımcısı </b><br>
-                                        Prof. Dr. Erdal Aslım<br>
-                                        Vascular Solutions Clinic, İstanbul</p>
-
-                                        <p><b>Genel Sekreter</b><br>
-                                        Prof. Dr. Suat Doğancı<br>
-                                        Sağlık Bilimleri Üniversitesi, Gülhane Eğitim Araştırma Hastanesi, Kalp ve Damar Cerrahisi </p>
-
-                                        <p><b>Sayman</b><br>
-                                        Doç. Dr. Ali Aycan Kavala<br>
-                                        Sağlık Bilimleri Üniversitesi, Bakırköy Dr. Sadi Konuk Eğitim Araştırma Hastanesi, Kalp ve Damar Cerrahisi </p>
-
-                                        <p><b>Üyeler: </b><br>
-                                        Prof. Dr. Alptekin Yasım<br>
-                                        Kahramanmaraş Sütçü İmam Üniversitesi, Tıp Fakültesi, Kalp ve Damar Cerrahisi </p>
-
-                                        <p>Doç. Dr. Emir Cantürk<br>
-                                        Medipol Üniversitesi, Tıp Fakültesi, Kalp ve Damar Cerrahisi<br>
-                                        </p>
-                                        <p>Doç. Dr. Umut Serhat Sanrı<br>
-                                        Sağlık Bilimleri Üniversitesi, Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi, Kalp ve Damar Cerrahisi<br>
-                                        </p> -->
-                                        <p><b>Yönetim Kurulu Başkanı</b></p>
-                                        <div class="td-ss-main-content">
-                                            <div class="td_module_10 td_module_wrap td-animation-stack">
-                                                <div class="td-module-thumb">
-                                                    <img width="218" height="150" class="entry-thumb" src="/doc/kurullar/erdal-aslim.jpg" alt="" title="" />
-                                                </div>
-                                                <div class="item-details kurullar">
-                                                    <h3 class="entry-title td-module-title">Prof. Dr. Erdal ASLIM</h3>
-
-                                                    <div class="td-excerpt" style="display: contents;">
-                                                        Vascular Solutions Clinic, İstanbul
-                                                    </div>
-                                                </div>
+                                        <style>
+                                            .kurul-grid-container {
+                                                display: grid;
+                                                grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+                                                gap: 30px;
+                                                margin: 0px 0;
+                                            }
+                                            
+                                            .kurul-grid-container.single-centered {
+                                                display: flex;
+                                                justify-content: center;
+                                            }
+                                            
+                                            .kurul-grid-container.single-centered .kurul-card {
+                                                max-width: 300px;
+                                            }
+                                            
+                                            .kurul-card {
+                                                text-align: center;
+                                                background: #f9f9f9;
+                                                padding: 20px;
+                                                border-radius: 8px;
+                                                transition: transform 0.3s ease, box-shadow 0.3s ease;
+                                            }
+                                            
+                                            .kurul-card:hover {
+                                                transform: translateY(-5px);
+                                                box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+                                            }
+                                            
+                                            .kurul-card .kurul-position {
+                                                font-size: 12px;
+                                                color: #666;
+                                                margin-bottom: 10px;
+                                                text-transform: uppercase;
+                                                font-weight: 600;
+                                            }
+                                            
+                                            .kurul-card .kurul-image {
+                                                width: 100%;
+                                                height: auto;
+                                                border-radius: 5px;
+                                                margin-bottom: 15px;
+                                                max-height: 300px;
+                                                object-fit: cover;
+                                                object-position: top center;
+                                                display: block;
+                                                margin: 0 auto;
+                                            }
+                                            
+                                            .kurul-card .kurul-name {
+                                                font-size: 16px;
+                                                font-weight: bold;
+                                                color: #333;
+                                                margin: 10px 0 0 0 !important;
+                                            }
+                                            
+                                            .kurul-section-title {
+                                                font-size: 20px;
+                                                font-weight: bold;
+                                                color: #2c3e50;
+                                                margin: 40px 0 20px 0;
+                                                padding-bottom: 10px;
+                                                border-bottom: 3px solid #3498db;
+                                            }
+                                            
+                                            @media (max-width: 768px) {
+                                                .kurul-grid-container {
+                                                    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+                                                    gap: 20px;
+                                                }
+                                            }
+                                            .page-template-default .wpb_text_column :last-child{
+                                                margin-bottom: 0 !important;
+                                            }
+                                        </style>
+                                        
+                                        <p class="kurul-section-title"><strong>YÖNETİM KURULU</strong></p>
+                                        
+                                        <div class="kurul-grid-container single-centered">
+                                            <div class="kurul-card">
+                                                <div class="kurul-position">Yönetim Kurulu Başkanı</div>
+                                                <img class="kurul-image" src="/doc/kurullar/suat-doganci.jpg" alt="Suat DOĞANCI" />
+                                                <h3 class="kurul-name">Suat DOĞANCI</h3>
                                             </div>
                                         </div>
-                                        <p><b>Yönetim Kurulu Başkan Yardımcısı </b></p>
-                                        <div class="td_module_10 td_module_wrap td-animation-stack">
-                                            <div class="td-module-thumb">
-                                                <img width="218" height="150" class="entry-thumb" src="/doc/kurullar/suat-doganci.jpg" alt="" title="" />
+                                        
+                                        <div class="kurul-grid-container">
+                                            <div class="kurul-card">
+                                                <div class="kurul-position">Başkan Yardımcısı</div>
+                                                <img class="kurul-image" src="/doc/kurullar/ali-aycan-kavala-2.jpg" alt="Ali Aycan KAVALA" />
+                                                <h3 class="kurul-name">Ali Aycan KAVALA</h3>
                                             </div>
-                                            <div class="item-details kurullar">
-                                                <h3 class="entry-title td-module-title">Prof. Dr. Suat DOĞANCI</h3>
-
-                                                <div class="td-excerpt" style="display: contents;">
-                                                    Sağlık Bilimleri Üniversitesi, Gülhane Eğitim Araştırma Hastanesi,
-                                                    Kalp ve
-                                                    Damar Cerrahisi
-                                                </div>
+                                            
+                                            <div class="kurul-card">
+                                                <div class="kurul-position">Genel Sekreter</div>
+                                                <img class="kurul-image" src="/doc/kurullar/umut-serhat-sanri.jpg" alt="Umut Serhat SANRI" />
+                                                <h3 class="kurul-name">Umut Serhat SANRI</h3>
                                             </div>
-                                        </div>
-                                        <p><b>Genel Sekreter</b></p>
-                                        <div class="td_module_10 td_module_wrap td-animation-stack">
-                                            <div class="td-module-thumb">
-                                                <img width="218" height="150" class="entry-thumb" src="/doc/kurullar/ali-aycan-kavala-2.jpg" alt="" title="" />
-                                            </div>
-                                            <div class="item-details kurullar">
-                                                <h3 class="entry-title td-module-title">Prof. Dr. Ali Aycan KAVALA</h3>
-
-                                                <div class="td-excerpt" style="display: contents;">
-                                                    Sağlık Bilimleri Üniversitesi, Bakırköy Dr. Sadi Konuk Eğitim
-                                                    Araştırma
-                                                    Hastanesi, Kalp ve Damar Cerrahisi
-                                                </div>
+                                            
+                                            <div class="kurul-card">
+                                                <div class="kurul-position">Sayman</div>
+                                                <img class="kurul-image" src="/doc/kurullar/murat-ugur.jpg" alt="Murat UĞUR" />
+                                                <h3 class="kurul-name">Murat UĞUR</h3>
                                             </div>
                                         </div>
-                                        <p><b>Sayman</b></p>
-                                        <div class="td_module_10 td_module_wrap td-animation-stack">
-                                            <div class="td-module-thumb">
-                                                <img width="218" height="150" class="entry-thumb" src="/doc/kurullar/murat-ugur.jpg" alt="" title="" />
+                                        
+                                        <div class="kurul-section-title">YÖNETİM KURULU ÜYELERİ</div>
+                                        <div class="kurul-grid-container">
+                                            <div class="kurul-card">
+                                                <img class="kurul-image" src="/doc/kurullar/bay-297x300.jpg" alt="Serkan KETENCİLER" />
+                                                <h3 class="kurul-name">Serkan KETENCİLER</h3>
                                             </div>
-                                            <div class="item-details kurullar">
-                                                <h3 class="entry-title td-module-title">Prof. Dr. Murat UĞUR</h3>
-
-                                                <div class="td-excerpt" style="display: contents;">
-                                                    Şehit Prof. Dr. İlhan Varank Sancaktepe Eğitim ve Araştırma
-                                                    Hastanesi
-                                                </div>
+                                            
+                                            <div class="kurul-card">
+                                                <img class="kurul-image" src="/doc/kurullar/erdinc-eroglu.jpg" alt="Erdinç EROĞLU" />
+                                                <h3 class="kurul-name">Erdinç EROĞLU</h3>
                                             </div>
-                                        </div>
-                                        <!-- <p><b>Yönetim Kurulu Başkanı</b><br>
-                                            Prof. Dr. Erdal ASLIM<br>
-                                            Vascular Solutions Clinic, İstanbul</p>
-
-                                        <p><b>Yönetim Kurulu Başkan Yardımcısı </b><br>
-                                            Prof. Dr. Suat DOĞANCI<br>
-                                            Sağlık Bilimleri Üniversitesi, Gülhane Eğitim Araştırma Hastanesi, Kalp ve
-                                            Damar Cerrahisi </p>
-
-                                        <p><b>Genel Sekreter</b><br>
-                                            Doç. Dr. Ali Aycan KAVALA<br>
-                                            Sağlık Bilimleri Üniversitesi, Bakırköy Dr. Sadi Konuk Eğitim Araştırma
-                                            Hastanesi, Kalp ve Damar Cerrahisi </p>
-
-                                        <p><b>Sayman</b><br>
-                                            Prof. Dr. Murat UĞUR<br>
-                                            Şehit Prof. Dr. İlhan Varank Sancaktepe Eğitim ve Araştırma Hastanesi</p> -->
-
-                                        <p><b>ÜYELER</b></p>
-                                        <!-- <p>Doç. Dr. Emir CANTÜRK<br>
-                                            Koşuyolu İstanbul Medipol Hastanesi / Çamlıca Medipol Üniversitesi Hastanesi
-                                        </p>
-
-                                        <p>Doç. Dr. Umut Serhat SANRI<br>
-                                            Bursa Yüksek İhtisas Eğitim Ve Araştırma Hastanesi
-                                        </p>
-                                        <p>Doç. Dr. Erdinç EROĞLU<br>
-                                            Kahramanmaraş Sütçü İmam Üniversitesi Araştırma Ve Uygulama Hastanesi
-                                        </p> -->
-                                        <div class="td_module_10 td_module_wrap td-animation-stack">
-                                            <div class="td-module-thumb">
-                                                <img width="218" height="150" class="entry-thumb" src="/doc/kurullar/emir-canturk.jpg" alt="" title="" />
-                                            </div>
-                                            <div class="item-details kurullar">
-                                                <h3 class="entry-title td-module-title">Doç. Dr. Emir CANTÜRK</h3>
-
-                                                <div class="td-excerpt" style="display: contents;">
-                                                    Koşuyolu İstanbul Medipol Hastanesi / Çamlıca Medipol Üniversitesi
-                                                    Hastanesi
-                                                </div>
+                                            
+                                            <div class="kurul-card">
+                                                <img class="kurul-image" src="/doc/kurullar/emir-canturk.jpg" alt="Emir CANTÜRK" />
+                                                <h3 class="kurul-name">Emir CANTÜRK</h3>
                                             </div>
                                         </div>
-                                        <div class="td_module_10 td_module_wrap td-animation-stack">
-                                            <div class="td-module-thumb">
-                                                <img width="218" height="150" class="entry-thumb" src="/doc/kurullar/umut-serhat-sanri.jpg" alt="" title="" />
+                                        
+                                        <div class="kurul-section-title">DENETLEME KURULU ÜYELERİ</div>
+                                        <div class="kurul-grid-container">
+                                            <div class="kurul-card">
+                                                <img class="kurul-image" src="/doc/kurullar/bay-297x300.jpg" alt="Hakkı Tankut AKAY" />
+                                                <h3 class="kurul-name">Hakkı Tankut AKAY</h3>
                                             </div>
-                                            <div class="item-details kurullar">
-                                                <h3 class="entry-title td-module-title">Doç. Dr. Umut Serhat SANRI</h3>
-
-                                                <div class="td-excerpt" style="display: contents;">
-                                                    Bursa Yüksek İhtisas Eğitim Ve Araştırma Hastanesi
-                                                </div>
+                                            
+                                            <div class="kurul-card">
+                                                <img class="kurul-image" src="/doc/kurullar/bay-297x300.jpg" alt="Mustafa ŞIRLAK" />
+                                                <h3 class="kurul-name">Mustafa ŞIRLAK</h3>
                                             </div>
-                                        </div>
-                                        <div class="td_module_10 td_module_wrap td-animation-stack">
-                                            <div class="td-module-thumb">
-                                                <img width="218" height="150" class="entry-thumb" src="/doc/kurullar/erdinc-eroglu.jpg" alt="" title="" />
-                                            </div>
-                                            <div class="item-details kurullar">
-                                                <h3 class="entry-title td-module-title">Doç. Dr. Erdinç EROĞLU</h3>
-
-                                                <div class="td-excerpt" style="display: contents;">
-                                                    Kahramanmaraş Sütçü İmam Üniversitesi Araştırma Ve Uygulama
-                                                    Hastanesi
-                                                </div>
+                                            
+                                            <div class="kurul-card">
+                                                <img class="kurul-image" src="/doc/kurullar/bay-297x300.jpg" alt="Emre ÖZKER" />
+                                                <h3 class="kurul-name">Emre ÖZKER</h3>
                                             </div>
                                         </div>
                                     </div>

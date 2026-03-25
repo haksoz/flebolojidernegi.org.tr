@@ -30,7 +30,7 @@
                                     <header class="td-post-title">
                                         <h1 class="entry-title">Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar</h1>
                                         <p>25 Nisan 2026 - Radisson Blu Hotel, İstanbul, Şişli</p>
-                                        <p style=" text-align: center;"><a href="../doc/modern-fleboloji/modern-fleboloji-bilimsel-program.pdf?v=3" target="_blank" class="btn btn-primary">Bilimsel Programı İndir (PDF)</a></p>
+                                        <p style=" text-align: center;"><a href="../doc/modern-fleboloji/modern-fleboloji-bilimsel-program.pdf?v=4" target="_blank" class="btn btn-primary">Bilimsel Programı İndir (PDF)</a></p>
                                     </header>
                                 </div>
 
@@ -38,7 +38,7 @@
 
                                 <div class="td-post-content">
                                     <img src="../doc/modern-fleboloji/modern-fleboloji.jpeg?v=4" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" style="width: 100%; height: auto;">
-                                    <p><img src="../doc/modern-fleboloji/modern-fleboloji-bilimsel-program.png?v=3" alt="Bilimsel Program" style="width: 100%; height: auto; margin-top: 20px;"></p>
+                                    <p><img src="../doc/modern-fleboloji/modern-fleboloji-bilimsel-program.png?v=4" alt="Bilimsel Program" style="width: 100%; height: auto; margin-top: 20px;"></p>
                                 </div>
 
                                 <footer>

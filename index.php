@@ -89,7 +89,7 @@
                 </div>
                 -->
                 <!-- Slider -->
-                <div class="vc_row wpb_row td-pb-row">
+                <!--<div class="vc_row wpb_row td-pb-row">
                     <div class="wpb_column vc_column_container td-pb-span12">
                         <div class="vc_column-inner">
                             <div class="wpb_wrapper">
@@ -98,6 +98,23 @@
                                         <div class="" data-flex_fx="fade" data-interval="5">
                                             <ul class="slides">
                                                 <a class="link_image" target="_blank" href=" https://uvecd2025.org/" title="13. Ulusal Fleboloji Kongresi"><img alt="" class="" height="315" src="/doc/duyurular/13-ulusal-fleboloji-kongresi.jpg?v=123" title="13. Ulusal Fleboloji Kongresi" width="1080"></a>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                <div class="vc_row wpb_row td-pb-row">
+                    <div class="wpb_column vc_column_container td-pb-span12">
+                        <div class="vc_column-inner">
+                            <div class="wpb_wrapper">
+                                <div class="wpb_gallery wpb_posts_slider wpb_content_element">
+                                    <div class="wpb_wrapper">
+                                        <div class="" data-flex_fx="fade" data-interval="5">
+                                            <ul class="slides">
+                                                <a class="link_image" target="_self" href="/duyurular/modern-fleboloji-gunleri-2026.php" title="Modern Fleboloji Günleri 2026"><img alt="" class="" height="315" src="/doc/modern-fleboloji/modern-fleboloji-banner.jpg" title="Modern Fleboloji Günleri 2026" width="1080"></a>
                                             </ul>
                                         </div>
                                     </div>
@@ -169,7 +186,7 @@
                                                 <div class="td-module-image">
                                                     <div class="td-module-thumb">
                                                         <a href="/duyurular/modern-fleboloji-gunleri-2026.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar">
-                                                            <img alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/modern-fleboloji/modern-fleboloji-kare.jpeg" srcset="" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" width="218">
+                                                            <img alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/modern-fleboloji/modern-fleboloji-kare.jpeg?v=3" srcset="" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" width="218">
                                                         </a>
                                                     </div>
                                                 </div>

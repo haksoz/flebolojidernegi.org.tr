@@ -21,7 +21,7 @@
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
                         <a href="/duyurular/modern-fleboloji-gunleri-2026.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar">
-                            <img width="100" height="70" class="entry-thumb" src="/doc/modern-fleboloji/modern-fleboloji-kare.jpeg" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" />
+                            <img width="100" height="70" class="entry-thumb" src="/doc/modern-fleboloji/modern-fleboloji-kare.jpeg?v=3" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" />
                         </a>
                     </div>
                     <div class="item-details">

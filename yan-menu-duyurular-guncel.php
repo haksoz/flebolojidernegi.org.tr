@@ -20,6 +20,23 @@
             <div class="td-block-span12" style="margin-bottom: 15px;">
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
+                        <a href="/duyurular/modern-fleboloji-gunleri-2026.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar">
+                            <img width="100" height="70" class="entry-thumb" src="/doc/modern-fleboloji/modern-fleboloji-kare.jpeg" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" />
+                        </a>
+                    </div>
+                    <div class="item-details">
+                        <h3 class="entry-title td-module-title">
+                            <a href="/duyurular/modern-fleboloji-gunleri-2026.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar">Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar</a>
+                        </h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-03-25T12:00:00+00:00">25 Nisan 2026</time></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="td-block-span12" style="margin-bottom: 15px;">
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+                    <div class="td-module-thumb">
                         <a href="/duyurular/22-ulusal-vaskuler-ve-endovaskuler-cerrahi-kongresi-13-ulusal-fleboloji-kongresi.php" rel="bookmark" title="13. Ulusal Fleboloji Kongresi">
                             <img width="100" height="70" class="entry-thumb" src="/doc/duyurular/13-ulusal-fleboloji-kongresi-1x1.jpg" alt="13. Ulusal Fleboloji Kongresi" title="13. Ulusal Fleboloji Kongresi" />
                         </a>

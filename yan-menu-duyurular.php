@@ -21,6 +21,21 @@
 
                 <div class="td_module_6 td_module_wrap td-animation-stack">
 
+                    <div class="td-module-thumb"><a href="/duyurular/modern-fleboloji-gunleri-2026.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar"><img width="100" height="100" class="entry-thumb" src="../doc/modern-fleboloji/modern-fleboloji-kare.jpeg" alt="" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" /></a></div>
+                    <div class="item-details" style="margin-bottom: 10px;">
+                        <h3 class="entry-title td-module-title"><a href="/duyurular/modern-fleboloji-gunleri-2026.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar">Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar</a></h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-03-25T12:00:00+00:00">25 Nisan 2026</time></span>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div> <!-- ./td-block-span12 -->
+            <div class="td-block-span12">
+
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+
                     <div class="td-module-thumb"><a href="/duyurular/secimli-genel-kurul-2026.php" rel="bookmark" title="Seçimli Genel Kurul 2026"><img width="100" height="100" class="entry-thumb" src="../doc/2026-secim-genel-kurulu-cropped.jpg" alt="" title="Seçimli Genel Kurul 2026" /></a></div>
                     <div class="item-details" style="margin-bottom: 10px;">
                         <h3 class="entry-title td-module-title"><a href="/duyurular/secimli-genel-kurul-2026.php" rel="bookmark" title="Seçimli Genel Kurul 2026">Seçimli Genel Kurul 2026</a></h3>

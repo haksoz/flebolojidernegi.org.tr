@@ -168,6 +168,18 @@
                                             <div class="td_module_mx4 td_module_wrap td-animation-stack">
                                                 <div class="td-module-image">
                                                     <div class="td-module-thumb">
+                                                        <a href="/duyurular/modern-fleboloji-gunleri-2026.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar">
+                                                            <img alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/modern-fleboloji/modern-fleboloji-kare.jpeg" srcset="" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" width="218">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <h3 class="entry-title td-module-title">
+                                                    <a href="/duyurular/modern-fleboloji-gunleri-2026.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar">Modern Fleboloji Günleri</a>
+                                                </h3>
+                                            </div>
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
                                                         <a href="/duyurular/secimli-genel-kurul-2026.php" rel="bookmark" title="Seçimli Genel Kurul 2026">
                                                             <img alt="Seçimli Genel Kurul 2026" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/2026-secim-genel-kurulu-cropped.jpg" srcset="" title="Seçimli Genel Kurul 2026" width="218">
                                                         </a>

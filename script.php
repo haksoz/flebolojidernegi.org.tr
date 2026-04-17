@@ -3,11 +3,6 @@
      <span class="fa fa-angle-double-up"></span>
  </div>
 
-
-
- <script src="js/jquery.js">
- </script>
-
  <script>
      (function(body) {
          'use strict';
@@ -37,30 +32,30 @@
      (function() {
          var html_jquery_obj = jQuery('html');
 
-         if (html_jquery_obj.length && (_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+         if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
 
              var path = 'wp-content/themes/Fleboloji%20Dernegi%202017/style.css';
 
              jQuery.get(path, function(data) {
 
                  var str_split_separator = '#td_css_split_separator';
-                 var arr_splits = data.split(str_split_separator);
-                 var arr_length = arr_splits.length;
+                var arr_splits = data.split(str_split_separator);
+                var arr_length = arr_splits.length;
 
-                 if (arr_length > 1) {
+                if (arr_length > 1) {
 
-                     var dir_path = 'wp-content/themes/Fleboloji%20Dernegi%202017.html';
-                     var splited_css = '';
+                    var dir_path = 'wp-content/themes/Fleboloji%20Dernegi%202017.html';
+                    var splited_css = '';
 
-                     for (var i = 0; i < arr_length; i++) {
-                         if (i > 0) {
-                             arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
-                         }
-                         //jQuery('head').append('<style>' + arr_splits[i] + '<\/style>');
+                    for (var i = 0; i < arr_length; i++) {
+                        if (i > 0) {
+                            arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+                        }
+                        //jQuery('head').append('<style>' + arr_splits[i] + '<\/style>');
 
-                         var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
-                             return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm, '');
-                         });
+                        var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+                            return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm, '');
+                        });
 
                          splited_css += "<style>" + formated_str + "<\/style>";
                      }
@@ -68,10 +63,59 @@
                      var td_theme_css = jQuery('link#td-theme-css');
 
                      if (td_theme_css.length) {
-                         td_theme_css.after(splited_css);
-                     }
-                 }
-             });
-         }
-     })();
- </script><!-- Mirrored from www.flebolojidernegi.org.tr/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2020 07:34:04 GMT -->
+                        td_theme_css.after(splited_css);
+                    }
+                }
+            });
+        }
+    })();
+</script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+<script>
+    jQuery(document).ready(function($) {
+        if ($('.main-slider-carousel').length) {
+            $('.main-slider-carousel').owlCarousel({
+                items: 1,
+                loop: true,
+                nav: true,
+                dots: true,
+                autoplay: true,
+                autoplayTimeout: 8000,
+                autoplayHoverPause: true,
+                smartSpeed: 800
+            });
+        }
+
+        if ($('.son-eklenenler-carousel').length) {
+            $('.son-eklenenler-carousel').owlCarousel({
+                loop: true,
+                                        margin: 30,
+                                        nav: true,
+                                        dots: true,
+                                        autoplay: true,
+                                        autoplayTimeout: 10000,
+                                        autoplayHoverPause: true,
+                                        navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+                                        responsive: {
+                                            0: {
+                                                items: 2
+                                            },
+                                            600: {
+                                                items: 2
+                                            },
+                                            1000: {
+                                                items: 4
+                                            }
+                                        }
+            });
+        }
+    });
+</script>
+
+</body>
+
+</html>

@@ -110,13 +110,21 @@
                     <div class="wpb_column vc_column_container td-pb-span12">
                         <div class="vc_column-inner">
                             <div class="wpb_wrapper">
-                                <div class="wpb_gallery wpb_posts_slider wpb_content_element">
-                                    <div class="wpb_wrapper">
-                                        <div class="" data-flex_fx="fade" data-interval="5">
-                                            <ul class="slides">
-                                                <a class="link_image" target="_self" href="/duyurular/modern-fleboloji-gunleri-2026.php" title="Modern Fleboloji Günleri 2026"><img alt="" class="" height="315" src="/doc/modern-fleboloji/modern-fleboloji-banner.jpg" title="Modern Fleboloji Günleri 2026" width="1080"></a>
-                                            </ul>
-                                        </div>
+                                <div class="owl-carousel main-slider-carousel" style="margin-bottom: 20px;">
+                                    <div class="slide-item">
+                                        <a href="/duyurular/modern-fleboloji-gunleri-2026-izmir.php" title="Modern Fleboloji Günleri 2026 - İzmir">
+                                            <img alt="Modern Fleboloji Günleri 2026 - İzmir" src="/doc/modern-fleboloji-izmir/modern-fleboloji-izmir-slider.jpeg" style="width: 100%; height: auto;">
+                                        </a>
+                                    </div>
+                                    <div class="slide-item">
+                                        <a href="/duyurular/modern-fleboloji-gunleri-2026-gaziantep.php" title="Modern Fleboloji Günleri 2026 - Gaziantep">
+                                            <img alt="Modern Fleboloji Günleri 2026 - Gaziantep" src="/doc/modern-fleboloji-gaziantep/modern-fleboloji-gaziantep-slider.jpeg" style="width: 100%; height: auto;">
+                                        </a>
+                                    </div>
+                                    <div class="slide-item">
+                                        <a href="/duyurular/modern-fleboloji-gunleri-2026.php" title="Modern Fleboloji Günleri 2026">
+                                            <img alt="Modern Fleboloji Günleri 2026" src="/doc/modern-fleboloji/modern-fleboloji-banner.jpg" style="width: 100%; height: auto;">
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -182,6 +190,30 @@
                                     </div>
                                     <div class="td_block_inner td-column-3" id="td_uid_2_5e1ec026a3efd">
                                         <div class="owl-carousel son-eklenenler-carousel">
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
+                                                        <a href="/duyurular/modern-fleboloji-gunleri-2026-izmir.php" rel="bookmark" title="Modern Fleboloji Günleri - İzmir">
+                                                            <img alt="Modern Fleboloji Günleri - İzmir" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/modern-fleboloji-izmir/modern-fleboloji-izmir-kare.png" srcset="" title="Modern Fleboloji Günleri - İzmir" width="218">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <h3 class="entry-title td-module-title">
+                                                    <a href="/duyurular/modern-fleboloji-gunleri-2026-izmir.php" rel="bookmark" title="Modern Fleboloji Günleri - İzmir">Modern Fleboloji Günleri - İzmir</a>
+                                                </h3>
+                                            </div>
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
+                                                        <a href="/duyurular/modern-fleboloji-gunleri-2026-gaziantep.php" rel="bookmark" title="Modern Fleboloji Günleri - Gaziantep">
+                                                            <img alt="Modern Fleboloji Günleri - Gaziantep" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/modern-fleboloji-gaziantep/modern-fleboloji-gaziantep-kare.png" srcset="" title="Modern Fleboloji Günleri - Gaziantep" width="218">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <h3 class="entry-title td-module-title">
+                                                    <a href="/duyurular/modern-fleboloji-gunleri-2026-gaziantep.php" rel="bookmark" title="Modern Fleboloji Günleri - Gaziantep">Modern Fleboloji Günleri - Gaziantep</a>
+                                                </h3>
+                                            </div>
                                             <div class="td_module_mx4 td_module_wrap td-animation-stack">
                                                 <div class="td-module-image">
                                                     <div class="td-module-thumb">
@@ -278,31 +310,7 @@
                                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
                                 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
-                                <script>
-                                jQuery(document).ready(function($) {
-                                    $('.son-eklenenler-carousel').owlCarousel({
-                                        loop: true,
-                                        margin: 30,
-                                        nav: true,
-                                        dots: true,
-                                        autoplay: true,
-                                        autoplayTimeout: 10000,
-                                        autoplayHoverPause: true,
-                                        navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
-                                        responsive: {
-                                            0: {
-                                                items: 2
-                                            },
-                                            600: {
-                                                items: 2
-                                            },
-                                            1000: {
-                                                items: 4
-                                            }
-                                        }
-                                    });
-                                });
-                                </script>
+                            
                             </div>
                         </div>
                     </div>

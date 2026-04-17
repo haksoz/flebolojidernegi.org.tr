@@ -388,6 +388,26 @@
             background-color: rgba(255, 255, 255, 1);
             border: 2px solid #00427a;
         }
+
+    /* Mobile Responsive */
+    @media (max-width: 767px) {
+        .main-slider-carousel .owl-prev,
+        .main-slider-carousel .owl-next {
+            width: 25px;
+            height: 25px;
+            font-size: 18px;
+        }
+        .main-slider-carousel .owl-prev {
+            left: 10px;
+        }
+        .main-slider-carousel .owl-next {
+            right: 10px;
+        }
+        .owl-carousel .owl-nav button.owl-next,
+        .owl-carousel .owl-nav button.owl-prev {
+            font-size: 20px;
+        }
+    }
     </style>
 
 </body>

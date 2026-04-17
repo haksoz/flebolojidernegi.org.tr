@@ -332,6 +332,63 @@
 
 
     <?php include('script.php') ?>
+    <style>
+
+
+    /* Owl Carousel Custom Nav Buttons */
+    .main-slider-carousel {
+        position: relative;
+    }
+    .main-slider-carousel .owl-nav {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        pointer-events: none;
+    }
+    .main-slider-carousel .owl-prev,
+    .main-slider-carousel .owl-next {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 50px;
+        height: 50px;
+        background: rgb(255, 255, 255);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        font-size: 24px;
+        pointer-events: auto;
+        transition: all 0.3s ease;
+        border: 2px solid #fff;
+        box-shadow: 0 2px 10px rgb(255,255,255);
+    }
+    .main-slider-carousel .owl-prev {
+        left: 15px;
+    }
+    .main-slider-carousel .owl-next {
+        right: 15px;
+    }
+    .main-slider-carousel .owl-prev:hover,
+    .main-slider-carousel .owl-next:hover {
+        background: #00427a;
+        transform: translateY(-50%) scale(1.1);
+    }
+    .owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot{
+                color:#000;
+                background-color: rgba(255, 255, 255, 0.6);
+                font-size:30px;
+                font-weight: semibold;
+                border: 2px solid transparent;
+    }
+        .owl-carousel .owl-nav button.owl-next:hover, .owl-carousel .owl-nav button.owl-prev:hover, .owl-carousel button.owl-dot:hover{
+            background-color: rgba(255, 255, 255, 1);
+            border: 2px solid #00427a;
+        }
+    </style>
 
 </body>
 

@@ -118,7 +118,7 @@
                                     </div>
                                     <div class="slide-item">
                                         <a href="/duyurular/modern-fleboloji-gunleri-2026-gaziantep.php" title="Modern Fleboloji Günleri 2026 - Gaziantep">
-                                            <img alt="Modern Fleboloji Günleri 2026 - Gaziantep" src="/doc/modern-fleboloji-gaziantep/modern-fleboloji-gaziantep-slider.jpeg" style="width: 100%; height: auto;">
+                                            <img alt="Modern Fleboloji Günleri 2026 - Gaziantep" src="/doc/modern-fleboloji-gaziantep/modern-fleboloji-gaziantep-slider.jpg" style="width: 100%; height: auto;">
                                         </a>
                                     </div>
                                     <div class="slide-item">

@@ -112,6 +112,9 @@
                             <div class="wpb_wrapper">
                                 <div class="owl-carousel main-slider-carousel" style="margin-bottom: 20px;">
                                     <div class="slide-item">
+                                        <img alt="Fleboloji Derneği 2026 Etkinlik Takvimi" src="/doc/mfg-2026-takvim.jpg" title="Fleboloji Derneği 2026 Etkinlik Takvimi" style="width: 100%; height: auto;">
+                                    </div>
+                                    <div class="slide-item">
                                         <a href="/duyurular/modern-fleboloji-gunleri-2026-ordu.php" title="Modern Fleboloji Günleri 2026 - Ordu">
                                             <img alt="Modern Fleboloji Günleri 2026 - Ordu" src="/doc/modern-fleboloji-ordu/modern-fleboloji-ordu-slider.jpeg" style="width: 100%; height: auto;">
                                         </a>

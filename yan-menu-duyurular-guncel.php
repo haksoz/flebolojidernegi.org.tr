@@ -20,6 +20,23 @@
             <div class="td-block-span12" style="margin-bottom: 15px;">
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
+                        <a href="/duyurular/modern-fleboloji-gunleri-2026-ordu.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu">
+                            <img width="100" height="70" class="entry-thumb" src="/doc/modern-fleboloji-ordu/modern-fleboloji-ordu-kare.jpeg" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu" />
+                        </a>
+                    </div>
+                    <div class="item-details">
+                        <h3 class="entry-title td-module-title">
+                            <a href="/duyurular/modern-fleboloji-gunleri-2026-ordu.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu">Modern Fleboloji Günleri - Ordu</a>
+                        </h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-09-26T10:00:00+00:00">Ordu</time></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="td-block-span12" style="margin-bottom: 15px;">
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+                    <div class="td-module-thumb">
                         <a href="/duyurular/modern-fleboloji-gunleri-2026-izmir.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İzmir">
                             <img width="100" height="70" class="entry-thumb" src="/doc/modern-fleboloji-izmir/modern-fleboloji-izmir-kare.png" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İzmir" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İzmir" />
                         </a>

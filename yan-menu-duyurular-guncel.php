@@ -20,6 +20,23 @@
             <div class="td-block-span12" style="margin-bottom: 15px;">
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
+                        <a href="/duyurular/veinx-2026.php" rel="bookmark" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar">
+                            <img width="100" height="70" class="entry-thumb" src="/doc/veinx/veinx-kare.png" alt="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar" />
+                        </a>
+                    </div>
+                    <div class="item-details">
+                        <h3 class="entry-title td-module-title">
+                            <a href="/duyurular/veinx-2026.php" rel="bookmark" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar">VeinX 2026</a>
+                        </h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-09-12T09:30:00+00:00">12 Eylül 2026</time></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="td-block-span12" style="margin-bottom: 15px;">
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+                    <div class="td-module-thumb">
                         <a href="/duyurular/modern-fleboloji-gunleri-2026-ordu.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu">
                             <img width="100" height="70" class="entry-thumb" src="/doc/modern-fleboloji-ordu/modern-fleboloji-ordu-kare.jpeg" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu" />
                         </a>

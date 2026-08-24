@@ -201,6 +201,18 @@
                                             <div class="td_module_mx4 td_module_wrap td-animation-stack">
                                                 <div class="td-module-image">
                                                     <div class="td-module-thumb">
+                                                        <a href="/duyurular/veinx-2026.php" rel="bookmark" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar">
+                                                            <img alt="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/veinx/veinx-kare.png" srcset="" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar" width="218">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <h3 class="entry-title td-module-title">
+                                                    <a href="/duyurular/veinx-2026.php" rel="bookmark" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar">VeinX 2026 - İstanbul</a>
+                                                </h3>
+                                            </div>
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
                                                         <a href="/duyurular/modern-fleboloji-gunleri-2026-ordu.php" rel="bookmark" title="Modern Fleboloji Günleri - Ordu">
                                                             <img alt="Modern Fleboloji Günleri - Ordu" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/modern-fleboloji-ordu/modern-fleboloji-ordu-kare.jpeg" srcset="" title="Modern Fleboloji Günleri - Ordu" width="218">
                                                         </a>

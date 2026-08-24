@@ -39,6 +39,25 @@
                         <div class="td-ss-main-content">
                             <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb" style="margin-bottom: 10px;">
+                                    <a href="/duyurular/veinx-2026.php" rel="bookmark" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar">
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/veinx/veinx-kare.png" sizes="(max-width: 218px) 100vw, 218px" alt="" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar" />
+                                    </a>
+                                </div>
+                                <div class="item-details">
+                                    <h3 class="entry-title td-module-title">
+                                        <a href="/duyurular/veinx-2026.php" rel="bookmark" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar">VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar</a>
+                                    </h3>
+                                    <div class="td-module-meta-info">
+                                        <span class="td-post-date">
+                                            <time class="entry-date updated td-module-date" datetime="2026-09-12T09:30:00+00:00">12 Eylül 2026</time>
+                                        </span>
+                                    </div>
+                                    <div class="td-excerpt">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
+                                <div class="td-module-thumb" style="margin-bottom: 10px;">
                                     <a href="/duyurular/modern-fleboloji-gunleri-2026.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar">
                                         <img width="218" height="150" class="entry-thumb" src="/doc/modern-fleboloji/modern-fleboloji-kare.jpeg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" />
                                     </a>

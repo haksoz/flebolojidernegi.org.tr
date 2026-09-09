@@ -31,8 +31,8 @@
                                         <h1 class="entry-title">VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar</h1>
                                         <p>12 Eylül 2026 - Wyndham Grand İstanbul, Levent</p>
                                         <p style="text-align: center;">
-                                            <a href="../doc/veinx/veinx-invitation.pdf?v=1" target="_blank" class="btn btn-primary">Davetiyeyi İndir (PDF)</a>
-                                            <a href="../doc/veinx/veinx-program.pdf?v=1" target="_blank" class="btn btn-primary" style="margin-left: 10px;">Bilimsel Programı İndir (PDF)</a>
+                                            <a href="../doc/veinx/veinx-invitation.pdf?v=2" target="_blank" class="btn btn-primary">Davetiyeyi İndir (PDF)</a>
+                                            <a href="../doc/veinx/veinx-program.pdf?v=2" target="_blank" class="btn btn-primary" style="margin-left: 10px;">Bilimsel Programı İndir (PDF)</a>
                                         </p>
                                     </header>
                                 </div>
@@ -40,11 +40,11 @@
 
 
                                 <div class="td-post-content">
-                                    <img src="../doc/veinx/veinx-invitation-1.png?v=1" alt="VeinX Davetiye" style="width: 100%; height: auto;">
-                                    <p><img src="../doc/veinx/veinx-invitation-2.png?v=1" alt="VeinX Davetiye" style="width: 100%; height: auto; margin-top: 20px;"></p>
-                                    <p><img src="../doc/veinx/veinx-program-1.png?v=1" alt="VeinX Bilimsel Program" style="width: 100%; height: auto; margin-top: 20px;"></p>
-                                    <p><img src="../doc/veinx/veinx-program-2.png?v=1" alt="VeinX Bilimsel Program" style="width: 100%; height: auto; margin-top: 20px;"></p>
-                                    <p><img src="../doc/veinx/veinx-program-3.png?v=1" alt="VeinX Bilimsel Program" style="width: 100%; height: auto; margin-top: 20px;"></p>
+                                    <img src="../doc/veinx/veinx-invitation-1.png?v=2" alt="VeinX Davetiye" style="width: 100%; height: auto;">
+                                    <p><img src="../doc/veinx/veinx-invitation-2.png?v=2" alt="VeinX Davetiye" style="width: 100%; height: auto; margin-top: 20px;"></p>
+                                    <p><img src="../doc/veinx/veinx-program-1.png?v=2" alt="VeinX Bilimsel Program" style="width: 100%; height: auto; margin-top: 20px;"></p>
+                                    <p><img src="../doc/veinx/veinx-program-2.png?v=2" alt="VeinX Bilimsel Program" style="width: 100%; height: auto; margin-top: 20px;"></p>
+                                    <p><img src="../doc/veinx/veinx-program-3.png?v=2" alt="VeinX Bilimsel Program" style="width: 100%; height: auto; margin-top: 20px;"></p>
                                 </div>
 
                                 <footer>
@@ -65,7 +65,7 @@
                                         <meta itemprop="name" content="Fleboloji Derneği">
                                     </span>
                                     <meta itemprop="headline " content="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar"><span style="display: none;" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-                                        <meta itemprop="url" content="../doc/veinx/veinx-kare.png?v=1">
+                                        <meta itemprop="url" content="../doc/veinx/veinx-kare.png?v=2">
                                         <meta itemprop="width" content="1080">
                                         <meta itemprop="height" content="1080">
                                     </span>

@@ -203,6 +203,18 @@
                                             <div class="td_module_mx4 td_module_wrap td-animation-stack">
                                                 <div class="td-module-image">
                                                     <div class="td-module-thumb">
+                                                        <a href="/duyurular/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.php" rel="bookmark" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı">
+                                                            <img alt="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-kare.png" srcset="" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" width="218">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <h3 class="entry-title td-module-title">
+                                                    <a href="/duyurular/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.php" rel="bookmark" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı">Estetik Fleboloji Eğitim Programı</a>
+                                                </h3>
+                                            </div>
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
                                                         <a href="/duyurular/veinx-2026.php" rel="bookmark" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar">
                                                             <img alt="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/veinx/veinx-kare.png" srcset="" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar" width="218">
                                                         </a>

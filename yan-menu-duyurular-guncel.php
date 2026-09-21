@@ -20,6 +20,23 @@
             <div class="td-block-span12" style="margin-bottom: 15px;">
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
+                        <a href="/duyurular/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.php" rel="bookmark" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı">
+                            <img width="100" height="70" class="entry-thumb" src="/doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-kare.png" alt="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" />
+                        </a>
+                    </div>
+                    <div class="item-details">
+                        <h3 class="entry-title td-module-title">
+                            <a href="/duyurular/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.php" rel="bookmark" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı">Estetik Fleboloji Eğitim Programı</a>
+                        </h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-10-17T10:00:00+00:00">17 Ekim 2026</time></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="td-block-span12" style="margin-bottom: 15px;">
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+                    <div class="td-module-thumb">
                         <a href="/duyurular/veinx-2026.php" rel="bookmark" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar">
                             <img width="100" height="70" class="entry-thumb" src="/doc/veinx/veinx-kare.png" alt="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar" title="VeinX - Modern Venöz Tedavide Güncel Yaklaşımlar" />
                         </a>

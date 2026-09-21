@@ -62,7 +62,7 @@
                                                 <tr>
                                                     <td style="padding: 12px; border: 1px solid #ddd;">17 Ekim 2026</td>
                                                     <td style="padding: 12px; border: 1px solid #ddd;">Ankara</td>
-                                                    <td style="padding: 12px; border: 1px solid #ddd;">Estetik Fleboloji Kursu</td>
+                                                    <td style="padding: 12px; border: 1px solid #ddd;"><a href="/duyurular/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.php">Estetik Fleboloji Eğitim Programı</a></td>
                                                 </tr>
                                                 <tr style="background-color: #f9f9f9;">
                                                     <td style="padding: 12px; border: 1px solid #ddd;">24 Ekim 2026</td>

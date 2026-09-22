@@ -21,7 +21,7 @@
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
                         <a href="/duyurular/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.php" rel="bookmark" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı">
-                            <img width="100" height="70" class="entry-thumb" src="/doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-kare.png" alt="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" />
+                            <img width="100" height="70" class="entry-thumb" src="/doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-kare.jpeg?v=2" alt="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" />
                         </a>
                     </div>
                     <div class="item-details">

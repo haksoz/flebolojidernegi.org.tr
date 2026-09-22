@@ -40,7 +40,7 @@
                             <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb" style="margin-bottom: 10px;">
                                     <a href="/duyurular/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.php" rel="bookmark" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı">
-                                        <img width="218" height="150" class="entry-thumb" src="/doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-kare.png" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" />
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-kare.jpeg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" />
                                     </a>
                                 </div>
                                 <div class="item-details">

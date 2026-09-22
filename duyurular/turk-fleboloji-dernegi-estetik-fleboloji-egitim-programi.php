@@ -30,7 +30,7 @@
                                     <header class="td-post-title">
                                         <h1 class="entry-title">Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı</h1>
                                         <p style="text-align: center;">
-                                            <a href="../doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.pdf" target="_blank" class="btn btn-primary">Programı İndir (PDF)</a>
+                                            <a href="../doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.pdf?v=2" target="_blank" class="btn btn-primary">Programı İndir (PDF)</a>
                                         </p>
                                     </header>
                                 </div>
@@ -38,8 +38,8 @@
 
 
                                 <div class="td-post-content">
-                                    <img src="../doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-1.png" alt="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" style="width: 100%; height: auto;">
-                                    <p><img src="../doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-2.png" alt="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" style="width: 100%; height: auto; margin-top: 20px;"></p>
+                                    <img src="../doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-kare.jpeg?v=2" alt="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" style="width: 100%; height: auto;">
+                                    <p><img src="../doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.png?v=2" alt="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" style="width: 100%; height: auto; margin-top: 20px;"></p>
                                 </div>
 
                                 <footer>

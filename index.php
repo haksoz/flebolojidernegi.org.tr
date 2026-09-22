@@ -117,6 +117,11 @@
                                         </a>
                                     </div>
                                     <div class="slide-item">
+                                        <a href="/duyurular/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.php" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı - Ankara">
+                                            <img alt="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı - Ankara" src="/doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-banner.jpeg" style="width: 100%; height: auto;">
+                                        </a>
+                                    </div>
+                                    <div class="slide-item">
                                         <a href="/duyurular/modern-fleboloji-gunleri-2026-ordu.php" title="Modern Fleboloji Günleri 2026 - Ordu">
                                             <img alt="Modern Fleboloji Günleri 2026 - Ordu" src="/doc/modern-fleboloji-ordu/modern-fleboloji-ordu-slider.jpg" style="width: 100%; height: auto;">
                                         </a>
@@ -204,7 +209,7 @@
                                                 <div class="td-module-image">
                                                     <div class="td-module-thumb">
                                                         <a href="/duyurular/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.php" rel="bookmark" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı">
-                                                            <img alt="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-kare.png" srcset="" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" width="218">
+                                                            <img alt="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-kare.jpeg?v=2" srcset="" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" width="218">
                                                         </a>
                                                     </div>
                                                 </div>

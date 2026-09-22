@@ -118,7 +118,7 @@
                                     </div>
                                     <div class="slide-item">
                                         <a href="/duyurular/modern-fleboloji-gunleri-2026-ordu.php" title="Modern Fleboloji Günleri 2026 - Ordu">
-                                            <img alt="Modern Fleboloji Günleri 2026 - Ordu" src="/doc/modern-fleboloji-ordu/modern-fleboloji-ordu-slider.jpeg" style="width: 100%; height: auto;">
+                                            <img alt="Modern Fleboloji Günleri 2026 - Ordu" src="/doc/modern-fleboloji-ordu/modern-fleboloji-ordu-slider.jpg" style="width: 100%; height: auto;">
                                         </a>
                                     </div>
                                     <div class="slide-item">
@@ -228,7 +228,7 @@
                                                 <div class="td-module-image">
                                                     <div class="td-module-thumb">
                                                         <a href="/duyurular/modern-fleboloji-gunleri-2026-ordu.php" rel="bookmark" title="Modern Fleboloji Günleri - Ordu">
-                                                            <img alt="Modern Fleboloji Günleri - Ordu" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/modern-fleboloji-ordu/modern-fleboloji-ordu-kare.jpeg" srcset="" title="Modern Fleboloji Günleri - Ordu" width="218">
+                                                            <img alt="Modern Fleboloji Günleri - Ordu" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/modern-fleboloji-ordu/modern-fleboloji-ordu-kare.jpg?v=2" srcset="" title="Modern Fleboloji Günleri - Ordu" width="218">
                                                         </a>
                                                     </div>
                                                 </div>

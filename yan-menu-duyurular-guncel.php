@@ -55,7 +55,7 @@
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
                         <a href="/duyurular/modern-fleboloji-gunleri-2026-ordu.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu">
-                            <img width="100" height="70" class="entry-thumb" src="/doc/modern-fleboloji-ordu/modern-fleboloji-ordu-kare.jpeg" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu" />
+                            <img width="100" height="70" class="entry-thumb" src="/doc/modern-fleboloji-ordu/modern-fleboloji-ordu-kare.jpg?v=2" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu" />
                         </a>
                     </div>
                     <div class="item-details">

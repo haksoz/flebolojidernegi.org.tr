@@ -30,15 +30,15 @@
                                     <header class="td-post-title">
                                         <h1 class="entry-title">Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu</h1>
                                         <p>26 Eylül 2026 - Ordu</p>
-                                        <p style=" text-align: center;"><a href="../doc/modern-fleboloji-ordu/modern-fleboloji-ordu-bilimsel-program.pdf?v=2" target="_blank" class="btn btn-primary">Bilimsel Programı İndir (PDF)</a></p>
+                                        <p style=" text-align: center;"><a href="../doc/modern-fleboloji-ordu/modern-fleboloji-ordu-bilimsel-program.pdf?v=3" target="_blank" class="btn btn-primary">Bilimsel Programı İndir (PDF)</a></p>
                                     </header>
                                 </div>
 
 
 
                                 <div class="td-post-content">
-                                    <img src="../doc/modern-fleboloji-ordu/modern-fleboloji-ordu-kare.jpeg?v=2" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu" style="width: 100%; height: auto;">
-                                    <p><img src="../doc/modern-fleboloji-ordu/modern-fleboloji-ordu-bilimsel-program.png?v=2" alt="Bilimsel Program" style="width: 100%; height: auto; margin-top: 20px;"></p>
+                                    <img src="../doc/modern-fleboloji-ordu/modern-fleboloji-ordu-kare.jpg?v=3" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu" style="width: 100%; height: auto;">
+                                    <p><img src="../doc/modern-fleboloji-ordu/modern-fleboloji-ordu-bilimsel-program.png?v=3" alt="Bilimsel Program" style="width: 100%; height: auto; margin-top: 20px;"></p>
                                 </div>
 
                                 <footer>
@@ -59,7 +59,7 @@
                                         <meta itemprop="name" content="Fleboloji Derneği">
                                     </span>
                                     <meta itemprop="headline " content="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu"><span style="display: none;" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-                                        <meta itemprop="url" content="../doc/modern-fleboloji-ordu/modern-fleboloji-ordu-kare.jpeg?v=2">
+                                        <meta itemprop="url" content="../doc/modern-fleboloji-ordu/modern-fleboloji-ordu-kare.jpeg?v=3">
                                         <meta itemprop="width" content="1080">
                                         <meta itemprop="height" content="1080">
                                     </span>

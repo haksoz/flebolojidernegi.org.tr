@@ -117,6 +117,11 @@
                                         </a>
                                     </div>
                                     <div class="slide-item">
+                                        <a href="/duyurular/modern-fleboloji-gunleri-ekim-2026-istanbul.php" title="Modern Fleboloji Günleri 2026 - İstanbul">
+                                            <img alt="Modern Fleboloji Günleri 2026 - İstanbul" src="/doc/modern-fleboloji-istanbul/modern-fleboloji-istanbul-banner.jpeg" style="width: 100%; height: auto;">
+                                        </a>
+                                    </div>
+                                    <div class="slide-item">
                                         <a href="/duyurular/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.php" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı - Ankara">
                                             <img alt="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı - Ankara" src="/doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-banner.jpeg" style="width: 100%; height: auto;">
                                         </a>
@@ -205,6 +210,18 @@
                                     </div>
                                     <div class="td_block_inner td-column-3" id="td_uid_2_5e1ec026a3efd">
                                         <div class="owl-carousel son-eklenenler-carousel">
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
+                                                        <a href="/duyurular/modern-fleboloji-gunleri-ekim-2026-istanbul.php" rel="bookmark" title="Modern Fleboloji Günleri - İstanbul">
+                                                            <img alt="Modern Fleboloji Günleri - İstanbul" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/modern-fleboloji-istanbul/modern-fleboloji-istanbul-kare.jpeg" srcset="" title="Modern Fleboloji Günleri - İstanbul" width="218">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <h3 class="entry-title td-module-title">
+                                                    <a href="/duyurular/modern-fleboloji-gunleri-ekim-2026-istanbul.php" rel="bookmark" title="Modern Fleboloji Günleri - İstanbul">Modern Fleboloji Günleri - İstanbul</a>
+                                                </h3>
+                                            </div>
                                             <div class="td_module_mx4 td_module_wrap td-animation-stack">
                                                 <div class="td-module-image">
                                                     <div class="td-module-thumb">

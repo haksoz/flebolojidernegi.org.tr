@@ -67,7 +67,7 @@
                                                 <tr style="background-color: #f9f9f9;">
                                                     <td style="padding: 12px; border: 1px solid #ddd;">24 Ekim 2026</td>
                                                     <td style="padding: 12px; border: 1px solid #ddd;">İstanbul</td>
-                                                    <td style="padding: 12px; border: 1px solid #ddd;">Modern Fleboloji Günleri</td>
+                                                    <td style="padding: 12px; border: 1px solid #ddd;"><a href="/duyurular/modern-fleboloji-gunleri-ekim-2026-istanbul.php">Modern Fleboloji Günleri</a></td>
                                                 </tr>
                                                 <tr>
                                                     <td style="padding: 12px; border: 1px solid #ddd;">5 Aralık 2026</td>

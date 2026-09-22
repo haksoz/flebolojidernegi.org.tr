@@ -39,6 +39,25 @@
                         <div class="td-ss-main-content">
                             <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb" style="margin-bottom: 10px;">
+                                    <a href="/duyurular/modern-fleboloji-gunleri-ekim-2026-istanbul.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İstanbul">
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/modern-fleboloji-istanbul/modern-fleboloji-istanbul-kare.jpeg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İstanbul" />
+                                    </a>
+                                </div>
+                                <div class="item-details">
+                                    <h3 class="entry-title td-module-title">
+                                        <a href="/duyurular/modern-fleboloji-gunleri-ekim-2026-istanbul.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İstanbul">Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İstanbul</a>
+                                    </h3>
+                                    <div class="td-module-meta-info">
+                                        <span class="td-post-date">
+                                            <time class="entry-date updated td-module-date" datetime="2026-10-24T10:00:00+00:00">24 Ekim 2026</time>
+                                        </span>
+                                    </div>
+                                    <div class="td-excerpt">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
+                                <div class="td-module-thumb" style="margin-bottom: 10px;">
                                     <a href="/duyurular/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi.php" rel="bookmark" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı">
                                         <img width="218" height="150" class="entry-thumb" src="/doc/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi/turk-fleboloji-dernegi-estetik-fleboloji-egitim-programi-kare.jpeg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Türk Fleboloji Derneği Estetik Fleboloji Eğitim Programı" />
                                     </a>

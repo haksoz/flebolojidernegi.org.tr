@@ -77,6 +77,63 @@
                             </div>
                             <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb" style="margin-bottom: 10px;">
+                                    <a href="/duyurular/modern-fleboloji-gunleri-2026-ordu.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu">
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/modern-fleboloji-ordu/modern-fleboloji-ordu-kare.jpg?v=3" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu" />
+                                    </a>
+                                </div>
+                                <div class="item-details">
+                                    <h3 class="entry-title td-module-title">
+                                        <a href="/duyurular/modern-fleboloji-gunleri-2026-ordu.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu">Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Ordu</a>
+                                    </h3>
+                                    <div class="td-module-meta-info">
+                                        <span class="td-post-date">
+                                            <time class="entry-date updated td-module-date" datetime="2026-09-26T10:00:00+00:00">26 Eylül 2026</time>
+                                        </span>
+                                    </div>
+                                    <div class="td-excerpt">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
+                                <div class="td-module-thumb" style="margin-bottom: 10px;">
+                                    <a href="/duyurular/modern-fleboloji-gunleri-2026-izmir.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İzmir">
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/modern-fleboloji-izmir/modern-fleboloji-izmir-kare.png" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İzmir" />
+                                    </a>
+                                </div>
+                                <div class="item-details">
+                                    <h3 class="entry-title td-module-title">
+                                        <a href="/duyurular/modern-fleboloji-gunleri-2026-izmir.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İzmir">Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İzmir</a>
+                                    </h3>
+                                    <div class="td-module-meta-info">
+                                        <span class="td-post-date">
+                                            <time class="entry-date updated td-module-date" datetime="2026-03-25T12:00:00+00:00">İzmir</time>
+                                        </span>
+                                    </div>
+                                    <div class="td-excerpt">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
+                                <div class="td-module-thumb" style="margin-bottom: 10px;">
+                                    <a href="/duyurular/modern-fleboloji-gunleri-2026-gaziantep.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Gaziantep">
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/modern-fleboloji-gaziantep/modern-fleboloji-gaziantep-kare.png" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Gaziantep" />
+                                    </a>
+                                </div>
+                                <div class="item-details">
+                                    <h3 class="entry-title td-module-title">
+                                        <a href="/duyurular/modern-fleboloji-gunleri-2026-gaziantep.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Gaziantep">Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - Gaziantep</a>
+                                    </h3>
+                                    <div class="td-module-meta-info">
+                                        <span class="td-post-date">
+                                            <time class="entry-date updated td-module-date" datetime="2026-03-25T12:00:00+00:00">Gaziantep</time>
+                                        </span>
+                                    </div>
+                                    <div class="td-excerpt">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
+                                <div class="td-module-thumb" style="margin-bottom: 10px;">
                                     <a href="/duyurular/modern-fleboloji-gunleri-2026.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar">
                                         <img width="218" height="150" class="entry-thumb" src="/doc/modern-fleboloji/modern-fleboloji-kare.jpeg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar" />
                                     </a>

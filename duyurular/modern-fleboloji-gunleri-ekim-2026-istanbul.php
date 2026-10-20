@@ -31,15 +31,15 @@
                                         <h1 class="entry-title">Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İstanbul</h1>
                                         <p>24 Ekim 2026, 10:00-18:00</p>
                                         <p>Radisson Blu Hotel, İstanbul Şişli</p>
-                                        <p style=" text-align: center;"><a href="../doc/modern-fleboloji-istanbul/modern-fleboloji-bilimsel-program.pdf?v=4" target="_blank" class="btn btn-primary">Bilimsel Programı İndir (PDF)</a></p>
+                                        <p style=" text-align: center;"><a href="../doc/modern-fleboloji-istanbul/modern-fleboloji-bilimsel-program.pdf?v=5" target="_blank" class="btn btn-primary">Bilimsel Programı İndir (PDF)</a></p>
                                     </header>
                                 </div>
 
 
 
                                 <div class="td-post-content">
-                                    <img src="../doc/modern-fleboloji-istanbul/modern-fleboloji-istanbul-afis.jpeg?v=4" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İstanbul" style="width: 100%; height: auto;">
-                                    <p><img src="../doc/modern-fleboloji-istanbul/modern-fleboloji-bilimsel-program.png?v=4" alt="Bilimsel Program" style="width: 100%; height: auto; margin-top: 20px;"></p>
+                                    <img src="../doc/modern-fleboloji-istanbul/modern-fleboloji-istanbul-afis.jpeg?v=5" alt="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İstanbul" style="width: 100%; height: auto;">
+                                    <p><img src="../doc/modern-fleboloji-istanbul/modern-fleboloji-bilimsel-program.png?v=5" alt="Bilimsel Program" style="width: 100%; height: auto; margin-top: 20px;"></p>
                                 </div>
 
                                 <footer>
@@ -60,7 +60,7 @@
                                         <meta itemprop="name" content="Fleboloji Derneği">
                                     </span>
                                     <meta itemprop="headline " content="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İstanbul"><span style="display: none;" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-                                        <meta itemprop="url" content="../doc/modern-fleboloji-istanbul/modern-fleboloji-istanbul-kare.jpeg?v=4">
+                                        <meta itemprop="url" content="../doc/modern-fleboloji-istanbul/modern-fleboloji-istanbul-kare.jpeg?v=5">
                                         <meta itemprop="width" content="1080">
                                         <meta itemprop="height" content="1080">
                                     </span>

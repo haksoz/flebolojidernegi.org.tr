@@ -118,7 +118,7 @@
                                     </div>
                                     <div class="slide-item">
                                         <a href="/duyurular/modern-fleboloji-gunleri-ekim-2026-istanbul.php" title="Modern Fleboloji Günleri 2026 - İstanbul">
-                                            <img alt="Modern Fleboloji Günleri 2026 - İstanbul" src="/doc/modern-fleboloji-istanbul/modern-fleboloji-istanbul-banner.jpeg" style="width: 100%; height: auto;">
+                                            <img alt="Modern Fleboloji Günleri 2026 - İstanbul" src="/doc/modern-fleboloji-istanbul/modern-fleboloji-istanbul-banner.jpg" style="width: 100%; height: auto;">
                                         </a>
                                     </div>
                                     <div class="slide-item">

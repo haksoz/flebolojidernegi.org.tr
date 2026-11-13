@@ -112,6 +112,11 @@
                             <div class="wpb_wrapper">
                                 <div class="owl-carousel main-slider-carousel" style="margin-bottom: 20px;">
                                     <div class="slide-item">
+                                        <a href="/duyurular/temel-seviye-doppler-ultrasonografi-kursu-aralik-2026.php" title="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU Aralık 2026">
+                                            <img alt="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU - 5 Aralık 2026, Ankara" src="/doc/temel-seviye-doppler-ultrasonografi-kursu-aralik-2026/web-banner.jpeg" title="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU Aralık 2026" style="width: 100%; height: auto;">
+                                        </a>
+                                    </div>
+                                    <div class="slide-item">
                                         <a href="/duyurular/fleboloji-dernegi-2026-etkinlik-takvimi.php" title="Fleboloji Derneği 2026 Etkinlik Takvimi">
                                             <img alt="Fleboloji Derneği 2026 Etkinlik Takvimi" src="/doc/mfg-2026-takvim-slider.jpg" title="Fleboloji Derneği 2026 Etkinlik Takvimi" style="width: 100%; height: auto;">
                                         </a>

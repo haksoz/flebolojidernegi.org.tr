@@ -39,6 +39,22 @@
                         <div class="td-ss-main-content">
                             <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb" style="margin-bottom: 10px;">
+                                    <a href="/duyurular/temel-seviye-doppler-ultrasonografi-kursu-aralik-2026.php" rel="bookmark" title="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU Aralık 2026">
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/temel-seviye-doppler-ultrasonografi-kursu-aralik-2026/duyuru-kare.jpeg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU Aralık 2026" />
+                                    </a>
+                                </div>
+                                <div class="item-details">
+                                    <h3 class="entry-title td-module-title">
+                                        <a href="/duyurular/temel-seviye-doppler-ultrasonografi-kursu-aralik-2026.php" rel="bookmark" title="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU Aralık 2026">Temel Seviye Doppler Ultrasonografi Kursu - Aralık 2026</a>
+                                    </h3>
+                                    <div class="td-module-meta-info">
+                                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-11-13">13 Kasım 2026</time></span>
+                                    </div>
+                                    <div class="td-excerpt"></div>
+                                </div>
+                            </div>
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
+                                <div class="td-module-thumb" style="margin-bottom: 10px;">
                                     <a href="/duyurular/modern-fleboloji-gunleri-ekim-2026-istanbul.php" rel="bookmark" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İstanbul">
                                         <img width="218" height="150" class="entry-thumb" src="/doc/modern-fleboloji-istanbul/modern-fleboloji-istanbul-kare.jpeg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="Modern Fleboloji Günleri - Tanıdan Tedaviye Güncel Yaklaşımlar - İstanbul" />
                                     </a>

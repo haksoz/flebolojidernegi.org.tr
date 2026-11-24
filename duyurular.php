@@ -39,6 +39,22 @@
                         <div class="td-ss-main-content">
                             <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb" style="margin-bottom: 10px;">
+                                    <a href="/duyurular/anitkabir.php" rel="bookmark" title="Anıtkabir Çelenk Bırakma Töreni">
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/anitkabir/doppler-anitkabir-kare.jpeg" sizes="(max-width: 218px) 100vw, 218px" alt="Anıtkabir Çelenk Bırakma Töreni - 5 Aralık 2026" title="Anıtkabir Çelenk Bırakma Töreni" />
+                                    </a>
+                                </div>
+                                <div class="item-details">
+                                    <h3 class="entry-title td-module-title">
+                                        <a href="/duyurular/anitkabir.php" rel="bookmark" title="Anıtkabir Çelenk Bırakma Töreni">Anıtkabir Çelenk Bırakma Töreni</a>
+                                    </h3>
+                                    <div class="td-module-meta-info">
+                                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-12-05T10:00:00+03:00">5 Aralık 2026, 10.00</time></span>
+                                    </div>
+                                    <div class="td-excerpt">Aslanlı Yol Girişi, Anıtkabir</div>
+                                </div>
+                            </div>
+                            <div class="td_module_10 td_module_wrap td-animation-stack">
+                                <div class="td-module-thumb" style="margin-bottom: 10px;">
                                     <a href="/duyurular/temel-seviye-doppler-ultrasonografi-kursu-aralik-2026.php" rel="bookmark" title="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU Aralık 2026">
                                         <img width="218" height="150" class="entry-thumb" src="/doc/temel-seviye-doppler-ultrasonografi-kursu-aralik-2026/duyuru-kare.jpeg" sizes="(max-width: 218px) 100vw, 218px" alt="" title="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU Aralık 2026" />
                                     </a>

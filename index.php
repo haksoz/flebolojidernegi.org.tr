@@ -112,6 +112,11 @@
                             <div class="wpb_wrapper">
                                 <div class="owl-carousel main-slider-carousel" style="margin-bottom: 20px;">
                                     <div class="slide-item">
+                                        <a href="/duyurular/anitkabir.php" title="Anıtkabir Çelenk Bırakma Töreni - 5 Aralık 2026">
+                                            <img alt="Anıtkabir Çelenk Bırakma Töreni - 5 Aralık 2026, saat 10.00" src="/doc/anitkabir/doppler-anitkabir-slider.jpeg" title="Anıtkabir Çelenk Bırakma Töreni" style="width: 100%; height: auto;">
+                                        </a>
+                                    </div>
+                                    <div class="slide-item">
                                         <a href="/duyurular/temel-seviye-doppler-ultrasonografi-kursu-aralik-2026.php" title="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU Aralık 2026">
                                             <img alt="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU - 5 Aralık 2026, Ankara" src="/doc/temel-seviye-doppler-ultrasonografi-kursu-aralik-2026/web-banner.jpeg" title="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU Aralık 2026" style="width: 100%; height: auto;">
                                         </a>
@@ -215,6 +220,18 @@
                                     </div>
                                     <div class="td_block_inner td-column-3" id="td_uid_2_5e1ec026a3efd">
                                         <div class="owl-carousel son-eklenenler-carousel">
+                                            <div class="td_module_mx4 td_module_wrap td-animation-stack">
+                                                <div class="td-module-image">
+                                                    <div class="td-module-thumb">
+                                                        <a href="/duyurular/anitkabir.php" rel="bookmark" title="ANITKABİR ÇELENK BIRAKMA TÖRENİ">
+                                                            <img alt="ANITKABİR ÇELENK BIRAKMA TÖRENİ - 5 Aralık 2026" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/anitkabir/doppler-anitkabir-kare.jpeg" srcset="" title="ANITKABİR ÇELENK BIRAKMA TÖRENİ" width="218">
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <h3 class="entry-title td-module-title">
+                                                    <a href="/duyurular/anitkabir.php" rel="bookmark" title="ANITKABİR ÇELENK BIRAKMA TÖRENİ">ANITKABİR ÇELENK BIRAKMA TÖRENİ</a>
+                                                </h3>
+                                            </div>
                                             <div class="td_module_mx4 td_module_wrap td-animation-stack">
                                                 <div class="td-module-image">
                                                     <div class="td-module-thumb">

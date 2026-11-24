@@ -20,6 +20,23 @@
             <div class="td-block-span12" style="margin-bottom: 15px;">
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
+                        <a href="/duyurular/anitkabir.php" rel="bookmark" title="ANITKABİR ÇELENK BIRAKMA TÖRENİ">
+                            <img width="100" height="70" class="entry-thumb" src="/doc/anitkabir/doppler-anitkabir-kare.jpeg" alt="ANITKABİR ÇELENK BIRAKMA TÖRENİ - 5 Aralık 2026" title="ANITKABİR ÇELENK BIRAKMA TÖRENİ" />
+                        </a>
+                    </div>
+                    <div class="item-details">
+                        <h3 class="entry-title td-module-title">
+                            <a href="/duyurular/anitkabir.php" rel="bookmark" title="ANITKABİR ÇELENK BIRAKMA TÖRENİ">ANITKABİR ÇELENK BIRAKMA TÖRENİ</a>
+                        </h3>
+                        <div class="td-module-meta-info">
+                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-12-05T10:00:00+03:00">5 Aralık 2026, 10.00</time></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="td-block-span12" style="margin-bottom: 15px;">
+                <div class="td_module_6 td_module_wrap td-animation-stack">
+                    <div class="td-module-thumb">
                         <a href="/duyurular/temel-seviye-doppler-ultrasonografi-kursu-aralik-2026.php" rel="bookmark" title="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU Aralık 2026">
                             <img width="100" height="70" class="entry-thumb" src="/doc/temel-seviye-doppler-ultrasonografi-kursu-aralik-2026/duyuru-kare.jpeg" alt="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU Aralık 2026" title="TEMEL SEVİYE DOPPLER ULTRASONOGRAFİ KURSU Aralık 2026" />
                         </a>

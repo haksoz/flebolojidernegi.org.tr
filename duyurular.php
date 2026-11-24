@@ -40,7 +40,7 @@
                             <div class="td_module_10 td_module_wrap td-animation-stack">
                                 <div class="td-module-thumb" style="margin-bottom: 10px;">
                                     <a href="/duyurular/anitkabir.php" rel="bookmark" title="Anıtkabir Çelenk Bırakma Töreni">
-                                        <img width="218" height="150" class="entry-thumb" src="/doc/anitkabir/doppler-anitkabir-kare.jpeg" sizes="(max-width: 218px) 100vw, 218px" alt="Anıtkabir Çelenk Bırakma Töreni - 5 Aralık 2026" title="Anıtkabir Çelenk Bırakma Töreni" />
+                                        <img width="218" height="150" class="entry-thumb" src="/doc/anitkabir/doppler-anitkabir-kare.jpeg?v=2" sizes="(max-width: 218px) 100vw, 218px" alt="Anıtkabir Çelenk Bırakma Töreni - 5 Aralık 2026" title="Anıtkabir Çelenk Bırakma Töreni" />
                                     </a>
                                 </div>
                                 <div class="item-details">

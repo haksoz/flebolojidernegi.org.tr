@@ -21,7 +21,7 @@
                 <div class="td_module_6 td_module_wrap td-animation-stack">
                     <div class="td-module-thumb">
                         <a href="/duyurular/anitkabir.php" rel="bookmark" title="ANITKABİR ÇELENK BIRAKMA TÖRENİ">
-                            <img width="100" height="70" class="entry-thumb" src="/doc/anitkabir/doppler-anitkabir-kare.jpeg" alt="ANITKABİR ÇELENK BIRAKMA TÖRENİ - 5 Aralık 2026" title="ANITKABİR ÇELENK BIRAKMA TÖRENİ" />
+                            <img width="100" height="70" class="entry-thumb" src="/doc/anitkabir/doppler-anitkabir-kare.jpeg?v=2" alt="ANITKABİR ÇELENK BIRAKMA TÖRENİ - 5 Aralık 2026" title="ANITKABİR ÇELENK BIRAKMA TÖRENİ" />
                         </a>
                     </div>
                     <div class="item-details">

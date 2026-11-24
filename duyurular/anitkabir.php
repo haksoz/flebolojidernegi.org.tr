@@ -27,7 +27,7 @@
                                     </header>
                                 </div>
                                 <div class="td-post-content">
-                                    <img src="../doc/anitkabir/doppler-anitkabir.jpeg" alt="ANITKABİR ÇELENK BIRAKMA TÖRENİ - 5 Aralık 2026, saat 10.00, Aslanlı Yol Girişi, Anıtkabir" style="width: 100%; height: auto;">
+                                    <img src="../doc/anitkabir/doppler-anitkabir.jpeg?v=2" alt="ANITKABİR ÇELENK BIRAKMA TÖRENİ - 5 Aralık 2026, saat 10.00, Aslanlı Yol Girişi, Anıtkabir" style="width: 100%; height: auto;">
                                 </div>
                             </article>
                         </div>

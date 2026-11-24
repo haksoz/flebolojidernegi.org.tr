@@ -113,7 +113,7 @@
                                 <div class="owl-carousel main-slider-carousel" style="margin-bottom: 20px;">
                                     <div class="slide-item">
                                         <a href="/duyurular/anitkabir.php" title="Anıtkabir Çelenk Bırakma Töreni - 5 Aralık 2026">
-                                            <img alt="Anıtkabir Çelenk Bırakma Töreni - 5 Aralık 2026, saat 10.00" src="/doc/anitkabir/doppler-anitkabir-slider.jpeg" title="Anıtkabir Çelenk Bırakma Töreni" style="width: 100%; height: auto;">
+                                            <img alt="Anıtkabir Çelenk Bırakma Töreni - 5 Aralık 2026, saat 10.00" src="/doc/anitkabir/doppler-anitkabir-slider.jpeg?v=2" title="Anıtkabir Çelenk Bırakma Töreni" style="width: 100%; height: auto;">
                                         </a>
                                     </div>
                                     <div class="slide-item">
@@ -224,7 +224,7 @@
                                                 <div class="td-module-image">
                                                     <div class="td-module-thumb">
                                                         <a href="/duyurular/anitkabir.php" rel="bookmark" title="ANITKABİR ÇELENK BIRAKMA TÖRENİ">
-                                                            <img alt="ANITKABİR ÇELENK BIRAKMA TÖRENİ - 5 Aralık 2026" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/anitkabir/doppler-anitkabir-kare.jpeg" srcset="" title="ANITKABİR ÇELENK BIRAKMA TÖRENİ" width="218">
+                                                            <img alt="ANITKABİR ÇELENK BIRAKMA TÖRENİ - 5 Aralık 2026" class="entry-thumb" height="150" sizes="(max-width: 218px) 100vw, 218px" src="doc/anitkabir/doppler-anitkabir-kare.jpeg?v=2" srcset="" title="ANITKABİR ÇELENK BIRAKMA TÖRENİ" width="218">
                                                         </a>
                                                     </div>
                                                 </div>
